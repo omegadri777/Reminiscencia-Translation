@@ -14,21 +14,21 @@
 \tg[Anthony]Aquí tampoco contestan.
 \tg[Anthony]They don't answer here either.
 \tg[Lucius]Entrar...
-\tg[Lucius]Enter...
+\tg[Lucius]Wanna go inside...
 \tg[Anthony]¡Que no vamos a entrar!
-\tg[Anthony]We're not going in!
+\tg[Anthony]We're not doing that, I say!
 \tg[Lucius]Brrr...
 \tg[Lucius]Brrr...
 \tg[Lucius]Toc, toc.
-\tg[Lucius]Knock, knock
+\tg[Lucius]Knock, knock!
 \tg[Anthony]¿Quién es?
-\tg[Anthony]Who is this?
+\tg[Anthony]Who is it?
 \tg[Lucius]Mew.
-\tg[Lucius]Mew.
+\tg[Lucius]Wynaut.
 \tg[Anthony]¿Mew?
-\tg[Anthony]Mew?
+\tg[Anthony]Wynaut...?
 \tg[Lucius]Mewustaría entrar a una casa y calentarme un poco...
-\tg[Lucius]I would like to go into a house and warm myself a little...
+\tg[Lucius]Yeah, Wynaut going in?
 \tg[Anthony](...)
 \tg[Anthony](...)
 \tg[Lucius]N-no he dicho nada.
