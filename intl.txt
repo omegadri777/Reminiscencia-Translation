@@ -24837,7 +24837,7 @@ He uses his body like a hammer to pounce on his rival and cause damage.
 Ataca al oponente golpeándole con un hueso poseído por un espíritu. Puede reducir la Defensa del objetivo.
 Attacks the opponent by hitting them with a bone possessed by a spirit. It can reduce the target's Defense.
 624
-Reduce el daño de los ataques físicos y especiales que ejecuta el rival durante cinco turnos. Solo puede usarse cuando está granizando.
+Reduce el daño de los ataques físicos y especiales que ejecuta el rival durante cinco turnos. Solo puede usarse cuando está nevando.
 Reduces the damage of physical and special attacks carried out by the opponent for five turns. Can only be used when it is hailing.
 625
 Lanza una patada con la fuerza del trópico que golpea al rival y reduce su Ataque.
@@ -30054,7 +30054,7 @@ Prolongs the duration of the Rain Dance movement.
 Prolonga la duración del movimiento Tormenta Arena.
 Prolongs the duration of the Sandstorm move.
 87
-Prolonga la duración del movimiento Granizo.
+Prolonga la duración del movimiento Paisaje Nevado.
 Prolongs the duration of the Hail movement.
 88
 Prolonga la duración de barreras como Reflejo y Pantalla de Luz.
@@ -30675,7 +30675,7 @@ It takes the target, which is exchanged for another Pokémon. If it is a wild Po
 Envenena gravemente al objetivo y causa un daño mayor en cada turno.
 Heavily poisons the target and deals increased damage each turn.
 294
-Tormenta de granizo que dura cinco turnos. Hiere a todos, excepto a los de tipo Hielo.
+Tormenta de nieve que dura cinco turnos. Hiere a todos, excepto a los de tipo Hielo.
 Hail storm that lasts five turns. Injures everyone except Ice-types.
 295
 Robustece el cuerpo para subir el Ataque y la Defensa.
@@ -33110,7 +33110,7 @@ If the target is of the same sex, its competitiveness leads it to inflict more d
 Cada vez que retrocede sube su Velocidad, debido a su voluntad inquebrantable.
 Every time he retreats his Speed ​​increases, due to his unbreakable will.
 81
-Sube la Evasión cuando graniza.
+Sube la Evasión cuando nieva.
 Raise Evasion when it hails.
 82
 Cuando sus PS se ven reducidos a la mitad, engulle la baya que solo se comería cuando le quedasen pocos PS.
@@ -33212,13 +33212,13 @@ Normal or Fighting type moves reach Ghost type Pokémon.
 Además de atraer y neutralizar los movimientos de tipo Agua, sube el Ataque Especial.
 In addition to attracting and neutralizing Water-type moves, it raises Special Attack.
 115
-Recupera PS de forma gradual cuando hay tormentas de granizo.
+Recupera PS de forma gradual cuando hay tormentas de nieve.
 Gradually recovers HP during hail storms.
 116
 Mitiga el daño que le infligen los movimientos supereficaces.
 Mitigates damage dealt by super-effective moves.
 117
-El Pokémon invoca una tormenta de granizo al entrar en combate.
+El Pokémon invoca una tormenta de nieve al entrar en combate.
 The Pokémon summons a hail storm when entering combat.
 118
 Es posible que el Pokémon encuentre Miel una vez concluido el combate.
@@ -33293,7 +33293,7 @@ Elude allied attacks during combat.
 Cada turno sube mucho una característica, pero baja otra.
 Each turn one characteristic goes up a lot, but another goes down.
 142
-Protege al Pokémon de las tormentas de arena, el granizo y los movimientos con polvos.
+Protege al Pokémon de las tormentas de arena, nieve y los movimientos con polvos.
 Protects the Pokémon from sandstorms, hail, and dust moves.
 143
 Puede envenenar al objetivo con solo tocarlo.
@@ -33455,7 +33455,7 @@ Converts Normal type movements into Electric type and slightly increases their p
 Reacciona copiando la habilidad de un aliado debilitado.
 React by copying the ability of a weakened ally.
 196
-Aumenta su Velocidad si está granizando.
+Aumenta su Velocidad si está nevando.
 Increase your Speed ​​if it is hailing.
 197
 Duplica el daño infligido a un Pokémon que se haya incorporado al combate mediante un cambio.
@@ -33629,7 +33629,7 @@ When hit by a contact move, both the attacker and the Pokémon using the ability
 Provoca una Tormenta de Arena al recibir un ataque.
 Causes a Sandstorm when attacked.
 254
-Recibe el daño ocasionado por un ataque físico con el hielo de su cabeza en lugar de afectar al Pokémon, tras lo cual cambia su forma. El hielo de su cabeza se restaura cuando vuelva a granizar.
+Recibe el daño ocasionado por un ataque físico con el hielo de su cabeza en lugar de afectar al Pokémon, tras lo cual cambia su forma. El hielo de su cabeza se restaura cuando vuelva a nevar.
 It takes the damage caused by a physical attack with the ice on its head instead of affecting the Pokémon, after which it changes its form. The ice on its head is restored when it hails again.
 255
 Potencia los movimientos de los Pokémon adyacentes.
@@ -37876,7 +37876,7 @@ The core of {1} was broken!
 {2} of {1} intensified the sun's rays!
 ¡{2} de {1} levantó una tormenta de arena!
 {2} of {1} raised a sandstorm!
-¡{2} de {1} provocó granizo!
+¡{2} de {1} provocó nieve!
 {2} of {1} caused hail!
 ¡{1} cambió de forma!
 {1} changed shape!
@@ -38840,7 +38840,7 @@ The mysterious turbulence continues to blow incessantly!
 The sun is shining!
 ¡Ha empezado a llover!
 It's started to rain!
-¡Ha empezado a granizar!
+¡Ha empezado a nevar!
 It's started to hail!
 ¡El equipo enemigo ha sido rodeado de púas!
 The enemy team has been surrounded by spikes!
@@ -39338,7 +39338,7 @@ Sigue lloviendo...
 Still raining...
 La tormenta de arena arrecia...
 The sandstorm rages...
-Sigue granizando...
+Sigue nevando...
 It keeps hailing...
 Sigue diluviando...
 It keeps pouring...
@@ -39372,9 +39372,9 @@ La tormenta de arena amainó.
 The sandstorm subsided.
 ¡La tormenta de arena zarandea a {1}!
 The sandstorm shakes {1}!
-Ha dejado de granizar.
+Ha dejado de nevar.
 It has stopped hailing.
-¡El granizo zarandea a {1}!
+¡La nieve zarandea a {1}!
 The hail shakes {1}!
 ¡El diluvio ha terminado!
 The flood is over!
