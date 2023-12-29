@@ -595,9 +595,8 @@ And they rested until the next day.
 \tg[Anthony]Ok, ¿how have you finished stranded in the beach? 
 \tg[Lucius]¡Ojalá pudiera responderle! He olvidado lo que ocurrió...
 \tg[Lucius]I wish I could answer you! I have forgotten what happened...
-HE COMPROBADO HASTA AQUI.
 \tg[Anthony]Vaya, mira tú qué casualidad.
-\tg[Anthony]Wow, look what a coincidence.
+\tg[Anthony]Wow, what a coincidence.
 \tg[Lucius]Pongámonos en marcha, Phione. Hemos de buscar una forma de arreglar el Rosario.
 \tg[Lucius]Let's get going, Phione. We have to find a way to fix the Rosary.
 \tg[Phione]Muchas gracias por tu ayuda, fí. Has sido muy amable.
@@ -605,7 +604,7 @@ HE COMPROBADO HASTA AQUI.
 \tg[Anthony]No hay de qué.
 \tg[Anthony]You're welcome.
 \tg[Anthony](¿Qué es lo que acaba de pasar?)
-\tg[Anthony](What just happened?)
+\tg[Anthony](What have just happened?)
 \tg[Anthony](Al menos ese Pokémon llamado Phione no parecía hostil conmigo. ¿Será especial de alguna manera?)
 \tg[Anthony](At least that Pokémon named Phione didn't seem hostile to me. Is it special in some way?)
 \tg[Anthony](En fin, intentaré no pensar mucho en ello. He dejado el huerto descuidado...)
@@ -617,11 +616,11 @@ HE COMPROBADO HASTA AQUI.
 \tg[Anthony]Volveré pronto, ¿vale?
 \tg[Anthony]I'll be back soon, okay?
 \tg[Anthony]Pórtate bien, viejo Wal.
-\tg[Anthony]Be good, old Wal.
+\tg[Anthony]Behave yourself, old Wal.
 \tg[Anthony](El comedero de Wal permanecerá lleno hasta que entre y lo vea.)
-\tg[Anthony](Wal's feeder will remain full until I come in and see it.)
+\tg[Anthony](Wal's food bowl will remain full until he come in and see it.)
 \tg[Anthony](Un par de Bayas nunca están de más. Hay tantas que el viejo Wal no las echará en falta.)
-\tg[Anthony](A couple of Berries never hurt. There are so many that old Wal won't miss them.)
+\tg[Anthony](A couple of Berries never are useless. There are so many that old Wal won't miss them.)
 \tg[Anthony](Las que quedan son para el viejo Wal.)
 \tg[Anthony](The ones left are for old Wal.)
 \tg[Anthony]¿¡Wal!? Viejo Wal, ¿¡sigues ahí!?
@@ -635,15 +634,15 @@ HE COMPROBADO HASTA AQUI.
 \tg[Anthony]¡Preta! ¿¡Dónde está Wal!?
 \tg[Anthony]Preta! Where's Wal!?
 \tg[Preta]¿La morsa? Pues ahora que lo dices... Se fue anoche a la playa y no ha vuelto desde entonces.
-\tg[Preta]The walrus? Well now that you mention it... She went to the beach last night and hasn't come back since.
+\tg[Preta]The walrus? Well now that you mention it... She went to the beach last night and hasn't come back since then.
 \tg[Preta]Yo no me preocuparía por ella, seguramente quisiese algo de aire fresco y...
-\tg[Preta]I wouldn't worry about her, she would probably want some fresh air and...
+\tg[Preta]I wouldn't worry about her, she would probably wanted some fresh air and...
 \tg[Preta]¡O-oye! ¿¡De veras que no quieres cruasanes!?
-\tg[Preta]H-hey! You really don't want croissants!?
+\tg[Preta]H-hey! Don'tyou really want croissants!?
 \tg[Anthony](Estaría bien comprar otros libros, empiezo a cansarme de leer siempre los mismos.)
 \tg[Anthony](It would be nice to buy other books, I'm starting to get tired of always reading the same ones.)
 \tg[Anthony](Veamos... Debería coger el \c[2]Amuleto</c>, la \c[2]Poké Ball</c> y tal vez algo de \c[2]comida</c> para el camino.)
-\tg[Anthony](Let's see... I should grab the \c[2]Amulet</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> c> for the road.)
+\tg[Anthony](Let's see... I should grab the \c[2]Cleanse Tag</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> c> for the Trip.)
 \tg[Anthony](Una vieja Poké Ball sin usar. Qué recuerdos...)
 \tg[Anthony](An old unused Poké Ball. What memories...)
 \tg[Anthony](Nunca he tenido que volver a usar una, pero por si acaso...)
@@ -651,23 +650,23 @@ HE COMPROBADO HASTA AQUI.
 \tg[Lucius]¡Mr. Anthony! ¿Ha leído usted todos estos libros?
 \tg[Lucius]Mr. Anthony! Have you read all these books?
 \tg[Anthony]La mayoría, sí. ¿Te gusta leer?
-\tg[Anthony]Mostly, yes. Do you like to read?
+\tg[Anthony]Most of them, yes. Do you like to read?
 \tg[Lucius]¡Claro! Hace poco terminé mi primer libro en lenguaje humano, de hecho. Uno sobre &quot;Ciencias de la Naturaleza&quot;.
 \tg[Lucius]Sure! I recently finished my first book in human language, in fact. One on "Natural Sciences."
 \tg[Anthony]Una curiosa primera elección de lectura, sin duda...
 \tg[Anthony]A curious first reading choice, without a doubt...
 \tg[Phione]¡Phione también quiere aprender a leer algún día, fí!
-\tg[Phione]Phione also wants to learn to read someday, phione!
+\tg[Phione]Phione also wants to learn to read someday, fi!
 \tg[Lucius]Siquiera había necesidad en que aprendieras a hablar.
-\tg[Lucius]There was even a need for you to learn to speak.
+\tg[Lucius]There wasn't even a need for you to learn to speak.
 \tg[Anthony](¿Qué les pasa a estos dos?)
 \tg[Anthony](What's wrong with these two?)
 \tg[Anthony](Debería dar una vuelta a ver qué otras cosas me faltan.)
 \tg[Anthony](I should go around and see what else I'm missing.)
 \tg[Anthony](Tengo que coger el \c[2]Amuleto</c>, la \c[2]Poké Ball</c> y tal vez algo de \c[2]comida</c> para el camino.)
-\tg[Anthony](I have to grab the \c[2]Amulet</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> to the way.)
+\tg[Anthony](I have to grab the \c[2]Cleanse Tag</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> to the journey.)
 \tg[Anthony](No necesito el Amuleto hoy.)
-\tg[Anthony](I don't need the Amulet today.)
+\tg[Anthony](I don't need the Cleanse Tag today.)
 \tg[Anthony](No podríamos atravesar el bosque sin esto.)
 \tg[Anthony](We couldn't get through the forest without this.)
 \tg[Anthony](Apuntes sobre cómo han ido las cosechas este año. Quisiera plantar algunas Bayas más, pero los Pokémon pájaro se las comen...)
@@ -675,7 +674,7 @@ HE COMPROBADO HASTA AQUI.
 \tg[Anthony](¡Con lo majos que parecen!)
 \tg[Anthony](As nice as they seem!)
 \tg[Phione]Fí, fí...
-\tg[Phione]Yes, yes...
+\tg[Phione]Fi, fi...
 \tg[Anthony]Oye, ¿qué estás haciendo con mi bolsa?
 \tg[Anthony]Hey, what are you doing with my bag?
 \tg[Lucius]¡Phione!
@@ -687,7 +686,7 @@ HE COMPROBADO HASTA AQUI.
 \tg[Anthony]A ver.
 \tg[Anthony]Let's see.
 \tg[Anthony](Si solo son un par de caracolas y conchas de colores...)
-\tg[Anthony](If it's just a couple of conch shells and colored shells...)
+\tg[Anthony](They just a couple of conchs and colored shells...)
 \tg[Lucius]Lamento las molestias. Deshágase de esos inútiles objetos de inmediato.
 \tg[Lucius]I'm sorry for the inconvenience. Please get rid of these useless items immediately.
 \tg[Anthony]No es problema, no pesan mucho. Las llevaré por ti, ¿de acuerdo?
