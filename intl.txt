@@ -16,7 +16,7 @@
 \tg[Lucius]Entrar...
 \tg[Lucius]Wanna go inside...
 \tg[Anthony]¡Que no vamos a entrar!
-\tg[Anthony]We're not doing that, I say!
+\tg[Anthony]We're not going to enter!
 \tg[Lucius]Brrr...
 \tg[Lucius]Brrr...
 \tg[Lucius]Toc, toc.
@@ -44,25 +44,25 @@
 \tg[Anthony]Y nada.
 \tg[Anthony]And nothing.
 \tg[Lucius]Esa era la última casa. ¿Es que no hay nadie?
-\tg[Lucius]That was the last house. Is there no one there?
+\tg[Lucius]That was the last house. Isn't anybody here?
 \tg[Phione]No pueden estar todos dormidos, ¿verdad?
 \tg[Phione]They can't all be asleep, right?
 \tg[Phione]El Amo casi derriba una puerta... Es imposible que no se hayan enterado.
-\tg[Phione]The Master almost broke down a door... It's impossible for them not to have found out.
+\tg[Phione]The Master almost broke down a door... It's impossible for them not to notice.
 \tg[Anthony]¿Habrá pasado algo?
-\tg[Anthony]Has something happened?
+\tg[Anthony]It must have happened something?
 ¡Felicidades! Ahora puedes acceder al Capítulo Extra accesible desde la pantalla de título.
-Congratulations! You can now access the Extra Chapter accessible from the title screen.
+Congratulations! You can now access the Extra Chapter from the title screen.
 \tg[Lucius]Me gustaría entrar.
 \tg[Lucius]I would like to enter.
 \tg[Anthony]¿Sí? A mí me gustaría que no me arrestasen por allanamiento de morada, ¿qué opinas?
-\tg[Anthony]Yes? I would like to not be arrested for breaking and entering, what do you think?
+\tg[Anthony]Really? I would like to not be arrested for trespassing, what do you think?
 \tg[Lucius]Los Pokémon no tienen problema en invadir los hogares de otros.
-\tg[Lucius]Pokémon have no problem invading other people's homes.
+\tg[Lucius]Pokémon have no problem invading other people's houses.
 \tg[Anthony]Pues además de un Guardián del Mar lo mismo os hace falta también un policía.
-\tg[Anthony]Well, in addition to a Guardian of the Sea, you also need a police officer.
+\tg[Anthony]Well, in addition to a Guardian of the Sea, you may also need a police officer.
 \tg[Anthony]Aquí no invadimos la casa de nadie.
-\tg[Anthony]We don't invade anyone's home here.
+\tg[Anthony]We don't trespass anyone's home here.
 \tg[Lucius]Hum.
 \tg[Lucius]Hum.
 \tg[Lucius](...)
@@ -74,27 +74,27 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]Igual así los Pokémon más inútiles como Phione podrían dormir mejor por las noches.
 \tg[Lucius]Maybe the most useless Pokémon like Phione could sleep better at night.
 \tg[Lucius]Se lo propondré a Su Majestad. ¡Me alabará por pensar en el bienestar del prójimo!
-\tg[Lucius]I will propose it to Your Majesty. You will praise me for thinking about the well-being of my neighbor!
+\tg[Lucius]I will suggest it to His Majesty. He will praise me for thinking about the well-being of my neighbor!
 \tg[Phione]Kyogre sabe de sobra que el Amo hace todas estas cosas por interés...
 \tg[Phione]Kyogre knows very well that the Master does all these things out of interest...
 \tg[Lucius]¿¡Y tú que sabes!? ¡Métete en tus asuntos!
-\tg[Lucius]What do you know!? Mind your own business!
+\tg[Lucius]Why do you think that!? Mind your business!
 \tg[Anthony](Literalmente acaba de demostrarlo...)
 \tg[Anthony](He literally just proved it...)
 \tg[Anthony]¿A cuántas casas tienes planeado intentar entrar?
-\tg[Anthony]How many houses do you plan to try to break into?
+\tg[Anthony]How many houses do you plan to try to trespass?
 \tg[Lucius]A las que haga falta.
-\tg[Lucius]As needed.
+\tg[Lucius]As much as needed.
 \tg[Anthony]No entiendo, ¿para qué quieres entrar dentro? ¿No te valía con ver mi casa?
-\tg[Anthony]I don't understand, why do you want to go inside? Wouldn't it be enough for you to see my house?
+\tg[Anthony]I don't understand, why do you want to go inside? Wasn't enough for you to see my house?
 \tg[Lucius]¿Acaso no tiene curiosidad por saber qué objetos guarda la gente en el interior de sus hogares?
 \tg[Lucius]Aren't you curious to know what objects people keep inside their homes?
 \tg[Anthony]No, porque no es de mi incumbencia. Ni tampoco la tuya.
 \tg[Anthony]No, because it is none of my business. Nor is it yours.
 \tg[Phione]Phione sabe de algunos Pokémon que tratan de construir casas parecidas a los de los humanos.
-\tg[Phione]Phione knows of some Pokémon that try to build houses similar to those of humans.
+\tg[Phione]Phione knows about some Pokémon that try to build houses similar to those of humans.
 \tg[Anthony]¿Ah, sí? Supongo que es la mejor forma de proporcionar refugio, después de todo.
-\tg[Anthony]Oh yeah? I guess it's the best way to provide shelter, after all.
+\tg[Anthony]Oh, really? I guess it's the best way to provide shelter, after all.
 \tg[Lucius]¡Pero siguen sin tener puertas!
 \tg[Lucius]But they still don't have doors!
 \tg[Anthony]Ahora que lo pienso, supongo que no sería muy difícil para los Pokémon romperlas...
@@ -102,7 +102,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]Efectivamente. Por eso la libertad de entrar y salir de ellas cuanto gustemos.
 \tg[Lucius]Indeed. Hence the freedom to enter and leave them as we please.
 \tg[Lucius]¡Oh! ¿Y qué ocurriría si alguna de estas personas estuviera en posesión de algún objeto prohibido?
-\tg[Lucius]Oh! And what would happen if any of these people were in possession of some forbidden object?
+\tg[Lucius]Oh! And what if any of these people were in possession of some forbidden object?
 \tg[Lucius]¡Deben ser investigados!
 \tg[Lucius]They must be investigated!
 \tg[Anthony]Buen intento, pero no cuela.
@@ -114,7 +114,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Phione]Oh... A Phione le costaría conseguir eso.
 \tg[Phione]Oh... Phione would have a hard time getting that.
 \tg[Lucius]Vende tu lacit-...
-\tg[Lucius]Sell your lacit-...
+\tg[Lucius]Sell your bo-...
 \tg[Phione]¡Jamás!
 \tg[Phione]Never!
 \tg[Lucius]¿Cómo consiguió su casa, Mr. Anthony? Está muy alejada del pueblo.
@@ -122,7 +122,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]La construí yo mismo. Bonita, ¿verdad?
 \tg[Anthony]I built it myself. Pretty, right?
 \tg[Lucius]Y que lo diga. Y tiene un huerto justo delante...
-\tg[Lucius]And let him say it. And he has a garden right in front...
+\tg[Lucius]Of course it is. And it has a garden right in front of it...
 \tg[Anthony](Así que solo le interesa por eso.)
 \tg[Anthony](So he's only interested in that.)
 \tg[Lucius]¿Entonces construyó su casa usted solito? ¿También la decoró?
@@ -136,19 +136,19 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]Según ella sí, aunque yo no lo creo...
 \tg[Anthony]According to her, yes, although I don't believe it...
 \tg[Lucius]Si su mujer era de Kalos, ¿cómo se comunicaba con ella? ¿Habla su idioma?
-\tg[Lucius]If your wife was from Kalos, how did you communicate with her? Does she speak her language?
+\tg[Lucius]If your wife was from Kalos, how did you communicate with her? Do you speak her language?
 \tg[Anthony]Qué va. Al contrario, ella era la que conocía el mío.
-\tg[Anthony]What's wrong. On the contrary, she was the one who knew mine.
+\tg[Anthony]Not at all. Quite the opposite, she was the one who knew mine.
 \tg[Anthony]Tenía un acento de lo más gracioso, y al principio no podía evitar reírme un poco de ella. Qué tiempos.
 \tg[Anthony]She had the funniest accent, and at first I couldn't help but laugh at her a little. What times.
 \tg[Anthony]De todas formas, el lenguaje de Kalos es bastante complicado. Se me da mucho mejor el de Galar, ¿sabéis dónde está?
-\tg[Anthony]Anyway, the language of Kalos is quite complicated. I'm much better at Galar, do you know where it is?
+\tg[Anthony]Anyway, the language of Kalos is quite complicated. I'm much better at Galarian, do you know where it is?
 \tg[Phione]Es una región lluviosa del norte, fí. ¡Kyogre la visita a menudo!
 \tg[Phione]It's a rainy northern region, fi. Kyogre visits it often!
 \tg[Lucius]¿Qué? ¿¡Su Majestad!? Desconocía ese dato...
-\tg[Lucius]What? Your Majesty!? I didn't know that information...
+\tg[Lucius]What? His Majesty!? I didn't know that information...
 \tg[Lucius]¿¡Qué hace su Majestad en Galar!? ¡Pero si él odia la lluvia!
-\tg[Lucius]What is your Majesty doing in Galar!? But he hates the rain!
+\tg[Lucius]What is His Majesty doing in Galar!? He hates the rain!
 \tg[Phione]Ropa.
 \tg[Phione]Clothes.
 \tg[Lucius]¿Ropa...?
@@ -156,15 +156,15 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Phione]Fí. Ya sabe que Kyogre colecciona trajes de lugares distintos, y los de Galar están entre sus favoritos.
 \tg[Phione]Yes. You already know that Kyogre collects costumes from different places, and those from Galar are among his favorites.
 \tg[Lucius]¿En serio? Pero si siempre lleva puesto lo mismo...
-\tg[Lucius]Really? But he always wears the same thing...
+\tg[Lucius]Really? He always wears the same thing...
 \tg[Phione]Claro, siempre que tiene que hablar contigo. En su tiempo libre suele ir con un paragüitas y camisa blanca, pero nunca lo has visto porque el Amo es un pesadito y le evita.
-\tg[Phione]Of course, whenever he has to talk to you. In his free time he usually goes with an umbrella and a white shirt, but you've never seen him because the Master is a bore and avoids him.
+\tg[Phione]Of course, whenever he has to talk to you. In his free time he usually goes with a little umbrella and a white shirt, but you've never seen him because the Master is a bore and avoids him.
 \tg[Lucius]Me he estado perdiendo a Su Majestad vistiendo otra ropa... Buaaa...
-\tg[Lucius]I've been missing Your Majesty wearing other clothes... Wow...
+\tg[Lucius]I've been missing His Majesty wearing other clothes... Boo Woo...
 \tg[Anthony]¿Me recordáis por qué estamos hablando de todo esto delante de las puertas de la gente? Creo que nos empiezan a mirar raro.
-\tg[Anthony]Remind me why we're talking about all this in front of people's doors? I think they're starting to look at us funny.
+\tg[Anthony]Remind me why are we talking about all of this in front of people's doors? I think they're starting to look strangely at us.
 \tg[Phione]¡A Phione le gusta saber cosas, así que Phione se divierte!
-\tg[Phione]Phione likes to know things, so Phione has fun!
+\tg[Phione]Phione likes to know things, so Phione is having fun!
 \tg[Anthony]Volviendo al tema de las puertas y las casas... Ya que antes estabas preguntando por una, ¿alguna vez han atacado a los Phione?
 \tg[Anthony]Back to the topic of doors and houses... Since you were asking about one earlier, have the Phiones ever been attacked?
 \tg[Phione]Bueno, a Phione la solían atacar todo el rato estuviese en una casa o no.
@@ -178,7 +178,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]Qué horror. ¿Tan importantes eran los ingredientes?
 \tg[Anthony]How horrible. Were the ingredients that important?
 \tg[Lucius]E-ejem...
-\tg[Lucius]E-ahem...
+\tg[Lucius]A-ahem...
 \tg[Phione]El Amo solo quería comer y nos mandó a por ellos para además librarse de los Phione, fí.
 \tg[Phione]The Master just wanted to eat and he sent us after them to also get rid of the Phione, fi.
 \tg[Phione]Después, el propio Amo intentó acabar con Phione...
@@ -194,21 +194,21 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]¿Al final que ocurrió?
 \tg[Anthony]What happened in the end?
 \tg[Phione]Parece que alguien quería inculpar al Amo Lucius por tratar de acabar con los Phione.
-\tg[Phione]It seems that someone wanted to frame Master Lucius for trying to destroy the Phione.
+\tg[Phione]It seems that someone wanted to frame Master Lucius for trying to finish the Phione.
 \tg[Phione]Un Pokémon malvado insistía en que todos los Guardianes tratarían de acabar con Kyogre, de una manera u otra.
 \tg[Phione]An evil Pokémon insisted that all the Guardians would try to take down Kyogre, one way or another.
 \tg[Lucius]¡Y sin embargo, aquí me tiene! ¡Totalmente leal a Su Majestad!
-\tg[Lucius]And yet, here I am! Totally loyal to Your Majesty!
+\tg[Lucius]And yet, here I am! Totally loyal to His Majesty!
 \tg[Anthony](Acabar con el Rey del Mar... ¿Eso no conllevaría acabar con la vida? ¿Por qué haría alguien eso, por muy malvado que fuese?)
-\tg[Anthony](Ending the Sea King... Wouldn't that mean ending life? Why would anyone do that, no matter how evil they were?)
+\tg[Anthony](Ending the Sea King... Wouldn't that entail ending life? Why would anyone do that, no matter how evil they were?)
 \tg[Anthony](Y menos aún un Guardián...)
 \tg[Anthony](Least of all a Guardian...)
 \tg[Lucius]La conclusión de todo esto es que para poder seguir siendo fiel a Kyogre he de investigar el interior de las casas para comprobar que nadie quiere atentar contra él...
-\tg[Lucius]The conclusion of all this is that in order to remain faithful to Kyogre I have to investigate the interior of the houses to verify that no one wants to attack him...
+\tg[Lucius]The conclusion of all this is that in order to remain faithful to Kyogre I have to investigate the interior of the houses to verify that no one wants to asault him...
 \tg[Anthony](En fin.)
-\tg[Anthony](Finally.)
+\tg[Anthony](All in all.)
 \tg[Anthony](Esta piedra tiene un color raro y brilla bastante. Supongo que será una perla.)
-\tg[Anthony](This stone has a strange color and shines quite a bit. I suppose it is a pearl.)
+\tg[Anthony](This stone has a strange color and shines quite a bit. I quess it is a pearl.)
 \tg[Anthony](Esta no brilla tanto... Pero es redonda y de color azul. Debe ser otra, ¿no?)
 \tg[Anthony](This one doesn't shine as bright... But it's round and blue. It must be another one, right?)
 \tg[Anthony](Errr... Esta resalta de las demás, sin duda... La recogeré por si acaso...)
@@ -216,7 +216,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius](Las aguas se han ido volviendo más y más revueltas desde que zarpamos por primera vez.)
 \tg[Lucius](The waters have been getting rougher and rougher since we first set sail.)
 \tg[Lucius](Cada vez me es más difícil trazar rutas seguras. ¡Hace horas que deberíamos haber desembarcado!)
-\tg[Lucius](It is becoming increasingly difficult for me to plot safe routes. We should have disembarked hours ago!)
+\tg[Lucius](It is becoming increasingly difficult for me to plan safe routes. We should have disembarked hours ago!)
 \tg[Anthony]Oye, Lucius. Llevamos un buen rato dando vueltas...
 \tg[Anthony]Hey, Lucius. We've been hanging around for a while...
 \tg[Lucius]¡Lo sé, lo sé! ¡Es complicado, pero llegaremos! ¡Tenga fe en mí!
@@ -226,7 +226,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]¿¡Eh!? ¿Qué quiere decir?
 \tg[Lucius]Huh!? What do you mean?
 \tg[Anthony]Quiero decir que o desembarcamos en algún sitio y conseguimos más combustible, o nos quedamos varados en mitad del mar.
-\tg[Anthony]I mean either we land somewhere and get more fuel, or we get stranded in the middle of the sea.
+\tg[Anthony]I mean that either we land somewhere and get more fuel, or we get stranded in the middle of the sea.
 \tg[Phione]Anthony, ¿qué se usa como combustible?
 \tg[Phione]Anthony, what is used as fuel?
 \tg[Anthony]Madera es lo común. Si no he perdido la orientación, ¿no deberían haber algunas islas por aquí donde podamos recolectarla?
@@ -244,7 +244,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]¡Ponga rumbo al norte!
 \tg[Lucius]Head north!
 \tg[Anthony]Al norte está... Ah, Isla Glauco.
-\tg[Anthony]To the north is... Ah, Glauco Island.
+\tg[Anthony]To the north is... Ah, Glaucus Island.
 \tg[Anthony]He estado allí varias veces. La comida es muy buena, especialmente el pescado.
 \tg[Anthony]I've been there several times. The food is very good, especially the fish.
 \tg[Anthony]¿Qué Guardiana vive allí?
@@ -262,7 +262,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Phione]Porque el Amo es un pesado y Kyogre trata de evitarle tanto como puede. Por eso no le ve.
 \tg[Phione]Because the Master is a bore and Kyogre tries to avoid him as much as he can. That's why he doesn't see him.
 \tg[Lucius]¡Aún más <i>arañas</i>! ¡Hablas como si conocieras a Su Majestad mejor que yo!
-\tg[Lucius]Even more <i>spiders</i>! You speak as if you know His Majesty better than I do!
+\tg[Lucius]Even more <i>spiders</i>! You speak as if you knew His Majesty better than I do!
 \tg[Anthony]"Patrañas". Y en vez de discutir, ¿qué tal si hacéis algo sobre la banda de Sharpedo que nos persigue y me ayudáis a buscar una corriente que no nos arrastre a ese torbellino gigante de ahí delante?
 \tg[Anthony]"Bullshit." And instead of arguing, how about you guys do something about the Sharpedo gang that's chasing us and help me find a current that won't drag us into that giant whirlwind up ahead?- 
 \tg[Phione]¡Gah!
@@ -280,11 +280,11 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]No realmente. Son las tres igual de inútiles.
 \tg[Lucius]Not really. They are all three equally useless.
 \tg[Anthony]Ah, bueno. De todas formas, creo que Isla Talasa es la única de los alrededores en la que nunca he estado.
-\tg[Anthony]Ah, well. Anyway, I think Talasa Island is the only one around that I've never been to.
+\tg[Anthony]Ah, well. Anyway, I think Talasa Island is the only one around here that I've never been to.
 \tg[Anthony]Lo cierto es que no me importaría vivir en un lugar frío. Si no fuera porque me gusta cuidar de las hortalizas...
 \tg[Anthony]The truth is that I wouldn't mind living in a cold place. If it weren't for the fact that I like to take care of vegetables...
 \tg[Phione]Phione odia el frío con todas sus fuerzas.
-\tg[Phione]Phione hates the cold with all his might.
+\tg[Phione]Phione hates the cold with all her might.
 \tg[Anthony](Tanto Isla Pontos como Isla Glauco tuvieron problemas con los mercaderes de Isla Talasa.)
 \tg[Anthony](Both Pontos Island and Glauco Island had problems with the merchants of Talasa Island.)
 \tg[Anthony](Tal vez por fin averigüemos por qué.)
@@ -292,38 +292,38 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]¿Hora de dirigirse a la siguiente isla?
 \tg[Anthony]Time to head to the next island?
 Escoge la dificultad con la que quieres empezar el juego.
-Choose the difficulty with which you want to start the game.
+Choose the difficulty that you want to start the game.
 ¿Quieres aplicar alguna restricción?
 Do you want to apply any restrictions?
 ¡Felicidades! Ahora puedes acceder al Modo mazmorra accesible desde la pantalla de título.
-Congratulations! You can now access Dungeon Mode accessible from the title screen.
+Congratulations! You can now access Dungeon Mode from the title screen.
 ¿Quieres transferir tus Pokémon al modo historia? Si lo haces, esta partida se borrará y tendrás que empezar el Capítulo Extra de nuevo.
 Do you want to transfer your Pokémon to story mode? If you do, this game will be deleted and you will have to start the Extra Chapter again.
 Los Pokémon han sido transferidos. Accede a las Cajas desde el Modo Historia para conseguirlos.
 The Pokémon have been transferred. Access the Boxes from Story Mode to get them.
 Sí
-Yeah
+Yes
 No
 No
 Normal
 Normal
 Difícil
-Difficult
+Hard
 [Map1]
 Es posible que estés jugando desde un dispositivo que no procesará bien las imágenes de los Pokémon en batalla. Las animaciones se desactivarán.
 You may be playing on a device that will not process images of Pokémon in battle well. Animations will be disabled.
 Se ha detectado un dispositivo móvil. Los sonidos durante los diálogos de desactivarán ya que pueden producir bajadas de rendimiento. Puedes volver a reactivarlos desde opciones.
-A mobile device has been detected. The sounds during the dialogues will be deactivated as they can cause performance drops. You can reactivate them from options.
+A mobile device has been detected. The sounds during the dialogues will be disabled as they can cause performance drops. You can reactivate them from options.
 Este es un juego hecho por y para fans distribuido de forma gratuita. Si pagaste por él, fuiste timado.
 This is a game made by and for fans distributed for free. If you paid for it, you were scammed.
 Queda prohibida la redistribución del mismo si no es mediante el \c[2]enlace al blog oficial o la cuenta de Twitter/X</c>.
-Redistribution is prohibited except through the \c[2]link to the official blog or the Twitter/X</c> account.
+Redistribution is forbidden unless it's through the \c[2]link to the official blog or the Twitter/X</c> account.
 Completa el Modo historia para continuar en este modo de juego.
 Complete Story Mode to continue in this game mode.
 Completa el Capítulo extra para continuar en este modo de juego.
 Complete the Extra Chapter to continue in this game mode.
 Enlace al blog
-Link to blog
+Link to the blog
 Enlace a Twitter/X
 Link to Twitter/X
 Entendido
@@ -338,9 +338,9 @@ Understood
 \tg[Binacle]Bi... Cle...
 \tg[Binacle]Bi... Cle...
 \tg[Anthony]Por los pelos...
-\tg[Anthony]By the way...
+\tg[Anthony]By a whisker...
 \tg[Anthony]¿Habéis visto? ¡Justo a esto me refería!
-\tg[Anthony]Have you seen? This is exactly what I meant!
+\tg[Anthony]Have you seen that? This is exactly what I meant!
 \tg[Lucius]Sí... Y siento comunicarle que no he encontrado lógica alguna en ello.
 \tg[Lucius]Yes... And I am sorry to inform you that I have not found any logic in it.
 \tg[Phione]Los Pokémon solo decían que debías desaparecer, fí... ¡No explicaron nada de nada!
@@ -348,11 +348,11 @@ Understood
 \tg[Anthony]¿¡Desaparecer, yo!? ¿Por qué?
 \tg[Anthony]Disappear, me!? Why?
 \tg[Lucius]A saber... Dudo que alguien más que Su Majestad pueda responderle ahora. Es claramente un hecho innatural.
-\tg[Lucius]To wit... I doubt anyone other than Your Majesty can answer you now. It is clearly an unnatural occurrence.
+\tg[Lucius]Who knows?... I doubt anyone other than His Majesty can answer you now. It is clearly an unnatural incident.
 \tg[Anthony]En fin... Demasiado por hoy. Para cuando regresemos a la taberna será de noche.
 \tg[Anthony]Anyway... Too much for today. By the time we get back to the tavern it will be night.
 \tg[Anthony]Dormiremos allí y le daremos las perlas al navegante por la mañana.
-\tg[Anthony]We will sleep there and give the pearls to the navigator in the morning.
+\tg[Anthony]We will sleep there and will give the pearls to the navigator in the morning.
 \tg[Lucius]Como usted diga.
 \tg[Lucius]As you say.
 Así pues, Anthony, Lucius y Phione regresaron a la taberna...
@@ -360,23 +360,23 @@ So, Anthony, Lucius and Phione returned to the tavern...
 Y descansaron hasta el día siguiente.
 And they rested until the next day.
 \tg[Anthony]Me preocupa un poco que la cueva esté tan cerca del mar, pero bueno. Si es lo que hay...
-\tg[Anthony]I'm a little worried that the cave is so close to the sea, but oh well. If that's what it is...
+\tg[Anthony]I'm a little worried that the cave is so close to the sea, but well. If that's what it is...
 \tg[Lucius](...)
 \tg[Lucius](...)
 \tg[Lucius]Mmm...
 \tg[Lucius]Mmm...
 \tg[Lucius]¡No hay problema! ¡Entra mucha luz natural!
-\tg[Lucius]No problem! Lots of natural light coming in!
+\tg[Lucius]No problem! There a lot of natural light coming in!
 \tg[Anthony]¿Luz? No, yo me refería a lo que os había contado antes...
-\tg[Anthony]Light? No, I was referring to what I had told you before...
+\tg[Anthony]Light? No, I was referring to what I told you before...
 \tg[Lucius]¿Por los Pokémon? No se preocupe, yo puedo dialogar con ellos. Si deciden atacarle, averiguaré por qué.
-\tg[Lucius]Because of the Pokémon? Don't worry, I can talk to them. If they decide to attack you, I'll find out why.
+\tg[Lucius]The Pokémon? Don't worry, I can talk to them. If they decide to attack you, I'll find out why.
 \tg[Phione]Gah. Si eso ocurre, mejor deje hablar a Phione...
 \tg[Phione]Gah. If that happens, better let Phione talk...
 [Map4]
 [Map5]
 \tg[Anthony](Mmm... No hay canas a la vista. Mi barba sigue igual de roja y puntiaguda que siempre.)
-\tg[Anthony](Mmm... No gray hair in sight. My beard is still as red and pointed as ever.)
+\tg[Anthony](Mmm... No gray hair in sight. My beard is still as red and pointy as ever.)
 \tg[Anthony]¿Cómo va todo?
 \tg[Anthony]How's everything going?
 \tg[Preta]¡Pues ya he regado tus plantitas y rellenado el cuenco de la morsa!
@@ -384,29 +384,29 @@ And they rested until the next day.
 \tg[Anthony]Bien, bien. Recuerda que para compensar lo ocurrido con el barco tendrías que estar haciendo esto por el resto de tu vida.
 \tg[Anthony]Well, well. Remember that to make up for what happened to the ship you would have to be doing this for the rest of your life.
 \tg[Preta]P-piedad...
-\tg[Preta]P-mercy...
+\tg[Preta]M-mercy...
 \tg[Anthony]Se te ha vuelto a pegar el mono.
-\tg[Anthony]The monkey has caught on again.
+\tg[Anthony]The monkey has caught on you again.
 \tg[Preta]Sí, ya lo sé... Lo mismo lo acabo capturando y todo. Da penita que un Pokémon ciego como él vaya solo por ahí...
 \tg[Preta]Yes, I know... I ended up capturing him and everything. It's sad that a blind Pokémon like him goes around alone...
 \tg[Lucius](¡Que puede ver perfectamente!)
-\tg[Lucius](Who can see perfectly!)
+\tg[Lucius](He has a perfect eyesight!)
 \tg[Anthony](No hace suficiente frío últimamente como para encender la chimenea.)
 \tg[Anthony](It's not cold enough lately to light the fireplace.)
 \tg[Anthony](La chimenea sigue caliente...)
 \tg[Anthony](The fireplace is still hot...)
 \tg[Anthony]Eso era todo. Podemos irnos.
-\tg[Anthony]That was all. We can go.
+\tg[Anthony]That was all. We can leave.
 \tg[Lucius]¿Mr. Anthony? Disculpe, no he podido evitar fijarme en ese papel que lleva...
 \tg[Lucius]Mr. Anthony? Excuse me, I couldn't help but notice that paper you are carrying...
 \tg[Anthony]¿El Amuleto? Sirve para espantar a los Pokémon salvajes. Lo llevo conmigo cada vez que atravieso el bosque.
-\tg[Anthony]The Amulet? It's used to scare away wild Pokémon. I carry it with me every time I go through the forest.
+\tg[Anthony]The Cleanse Tag? It's used to scare away wild Pokémon. I carry it with me every time I go through the forest.
 \tg[Anthony]Lo compré porque noté que algunos parecían atacarme sin motivo... Aunque la mayoría solían proceder \c[2]del mar</c>.
 \tg[Anthony]I bought it because I noticed that some seemed to attack me for no reason... Although most of them used to come \c[2]from the sea</c>.
 \tg[Lucius]Aun así, ¿está seguro de sus efectos? Porque irradia un horripilante poder fantasmal...
 \tg[Lucius]Still, are you sure of its effects? Because it radiates a horrifying ghostly power...
 \tg[Lucius]Ese Amuleto suyo no hará nada por mantener alejados a los Pokémon, más bien al contrario...
-\tg[Lucius]That Amulet of yours won't do anything to keep the Pokémon away, quite the contrary...
+\tg[Lucius]That Cleanse Tag of yours won't do anything to keep the Pokémon away, quite the opposite...
 \tg[Anthony]Tonterías, ¿qué estás diciendo? ¡Siempre ha funcionado!
 \tg[Anthony]Nonsense, what are you saying? It's always worked!
 \tg[Lucius]Préstemelo un segundo.
@@ -426,25 +426,25 @@ And they rested until the next day.
 \tg[Anthony]Mmm... ¿Y ahora qué hago? Si aún fuese Portador, los Pokémon salvajes no serían un problema.
 \tg[Anthony]Hmm... What do I do now? If I were still a Carrier, wild Pokémon wouldn't be a problem.
 \tg[Lucius]¿&quot;Portador&quot;...? Ese término me es familiar.
-\tg[Lucius]"Bearer"...? That term is familiar to me.
+\tg[Lucius]"Carrier"...? That term is familiar to me.
 \tg[Lucius]Es lo que se les llama a los humanos que controlan Pokémon a su merced, ¿me equivoco? Mediante unas extrañas esferas.
-\tg[Lucius]That's what humans are called who control Pokémon at their mercy, am I wrong? Through some strange spheres.
+\tg[Lucius]That's how humans who control Pokémon at their mercyare called, am I wrong? Through some strange spheres.
 \tg[Lucius]Y lleva una ahí. ¡Láncesela al primero que encuentre!
-\tg[Lucius]And carry one there. Throw it at the first one you find!
+\tg[Lucius]And you carry one there. Throw it at the first one you find!
 \tg[Anthony]No es tan sencillo. No siempre se dejan capturar, y no tengo más.
-\tg[Anthony]It's not that simple. They don't always allow themselves to be captured, and I don't have anything else.
+\tg[Anthony]It's not that simple. They don't always allow themselves to be captured, and I don't have more.
 \tg[Anthony]Por otra parte, Wal está demasiado viejo para que lo arrastre a una pelea, y hace ya que liberé todos los Pokémon que tenía.
-\tg[Anthony]On the other hand, Wal is too old for me to drag him into a fight, and I already released all the Pokémon I had.
+\tg[Anthony]On the other hand, Wal is too old to be dragged to a fight, and I already released all the Pokémon I had.
 \tg[Phione]Phione puede curar, pero luchar le es más difícil...
-\tg[Phione]Phione can heal, but fighting is more difficult for him...
+\tg[Phione]Phione can heal, but fighting is more difficult for her...
 \tg[Anthony](¿Merece la pena arriesgarse? Igual es que el bosque nunca fue tan peligroso como creía...)
 \tg[Anthony](Is it worth the risk? Maybe the forest was never as dangerous as I thought...)
 \tg[Anthony]Es algo arriesgado, pero... Intentémoslo de todas formas.
 \tg[Anthony]It's a bit risky, but... Let's try it anyway.
 \tg[Lucius]Es optimista, ¡me gusta! ¡Estoy convencido de que obtendrá un Pokémon muy poderoso con el que luchar!
-\tg[Lucius]He's optimistic, I like him! I'm convinced he'll get a very powerful Pokémon to fight with!
+\tg[Lucius]You are optimistic, I like it! I'm convinced you'll get a very powerful Pokémon to fight with!
 \tg[Anthony]No, tampoco hace falta llegar a eso. Con algún Wattrel que paralice a nuestros enemigos mientras escapamos es suficiente.
-\tg[Anthony]No, there is no need to come to that either. Some Wattrel to paralyze our enemies while we escape is enough.
+\tg[Anthony]No, there is no need to reach that either. With a Wattrel to paralyze our enemies while we escape is enough.
 \tg[Lucius]Wattrel...
 \tg[Lucius]Wattrel...
 \tg[Anthony]¿Algún problema con los Wattrel?
@@ -454,7 +454,7 @@ And they rested until the next day.
 \tg[Phione]¡Gaaah! ¡Que no te los comas! ¡Te pondrás malita!
 \tg[Phione]Gaaah! Don't eat them! You'll get sick!
 \tg[Preta]¡Ay, qué pesada! ¡Te he dicho que solo están un poco chamuscados y ya está!
-\tg[Preta]Oh, how heavy! I told you that they are just a little charred and that's it!
+\tg[Preta]Oh, how bore! I told you that they are just a little scorched and that's it!
 \tg[Preta]¡Tony, dile a tu extraño Pokémon parlante que los cruasanes están bien hechos!
 \tg[Preta]Tony, tell your strange talking Pokémon that the croissants are well made!
 \tg[Phione]Anthony, ¿cómo estás?
@@ -468,39 +468,39 @@ And they rested until the next day.
 \tg[Anthony]Ah, vaya...
 \tg[Anthony]Ah, wow...
 \tg[Anthony]Imagino que has usado la masa que tenía guardada, ¿no, Preta? Si aún queda podemos hacer otros. ¡La hice yo, por cierto!
-\tg[Anthony]I imagine you've used the dough I had saved, right, Preta? If there's still some left, we can make others. I made it, by the way!
+\tg[Anthony]I imagine you've used the dough I put away, right, Preta? If there's still some left, we can make more. I made it, by the way!
 \tg[Phione]¿Gah? ¿En serio?
 \tg[Phione]Gah? Really?
 \tg[Phione]Además, ¿no crees que deberíamos darnos prisa en llegar a...?
-\tg[Phione]Also, don't you think we should hurry up to...?
+\tg[Phione]Also, don't you think we should hurry up to get  to...?
 \tg[Lucius]¡Las provisiones también son importantes!
 \tg[Lucius]Provisions are important too!
 \tg[Anthony]No tardaré. Haré una horneada y nos iremos.
-\tg[Anthony]I won't be long. I'll make some baking and we'll go.
+\tg[Anthony]It won't be long. I'll make a batch and we'll leave.
 \tg[Preta]¡Yupi! ¡Tony hará sus famosos cruasanes!
-\tg[Preta]Yup! Tony will make his famous croissants!
+\tg[Preta]Yippee! Tony will make his famous croissants!
 \tg[Lucius]"<i>Croissants</i>".
 \tg[Lucius]"<i>Croissants</i>".
 \tg[Phione]¡Gah! ¡Han salido bien!
 \tg[Phione]Gah! They turned out well!
 \tg[Anthony]¿Veis? Solo tengo problemas al recolectar los ingredientes...
-\tg[Anthony]See? I'm just having trouble collecting the ingredients...
+\tg[Anthony]See? I just have trouble getting the ingredients...
 \tg[Lucius]Así que lo admite.
 \tg[Lucius]So you admit it.
 \tg[Anthony]Sí, lo admito. ¿Pasa algo?
-\tg[Anthony]Yes, I admit it. Is something wrong?
+\tg[Anthony]Yes, I admit it. Is anything wrong?
 \tg[Anthony]Me llevaré algunos para el camino.
-\tg[Anthony]I'll take some for the road.
+\tg[Anthony]I'll take some for the trip.
 \tg[Anthony]Y por cierto, Preta. Comerte... O más bien, desperdiciar mis provisiones no estaba en el trato, así que lo descontaré de tu trabajo.
-\tg[Anthony]And by the way, Preta. Eating you... Or rather, wasting my supplies wasn't in the deal, so I'll deduct it from your work.
+\tg[Anthony]And by the way, Preta. Eating... Or rather, wasting my supplies wasn't in the deal, so I'll deduct it from your work.
 \tg[Preta]Agh, me has pillado... Yo solo quería unos cruasanes...
 \tg[Preta]Ugh, you got me... I just wanted some croissants...
 \tg[Anthony](Qué palabra más odiosa.)
 \tg[Anthony](What a hateful word.)
 \tg[Anthony](Parece que ya está todo. \c[2]Volvamos al barco</c> y zarpemos a la última isla cuando estemos listos.)
-\tg[Anthony](Looks like everything is done. \c[2]Let's get back to the ship</c> and sail to the last island when we're ready.)
+\tg[Anthony](Looks like everything is done. \c[2]Let's get back to the ship</c> and set sail to the last island when we're ready.)
 \tg[Anthony]Menudo elemento, ¿eh, viejo Wal?
-\tg[Anthony]Nice item, eh, old Wal?
+\tg[Anthony]What an element, eh, old Wal?
 \tg[Anthony]Un extraño Pokémon azul que habla... ¡Y el otro insiste en que es Lugia, el de las leyendas!
 \tg[Anthony]A strange blue Pokémon that talks... And the other one insists it's Lugia, the one from the legends!
 \tg[Anthony]También dice que quiere un barco. ¡Un estafador es lo que es!
@@ -518,9 +518,9 @@ And they rested until the next day.
 \tg[Anthony]Lugia o no, esos dos no pueden quedarse aquí para siempre.
 \tg[Anthony]Lugia or not, those two can't stay here forever.
 \tg[Anthony]Los conduciré hasta el pueblo y haré que \c[6]Preta</c> los lleve en mi viejo barco.
-\tg[Anthony]I'll drive them to the village and have \c[6]Preta</c> take them on my old boat.
+\tg[Anthony]I'll take them to the village and have \c[6]Preta</c> take them on my old boat.
 \tg[Anthony]A partir de ahí, tendrán que arreglárselas solitos.
-\tg[Anthony]From there, they will have to fend for themselves.
+\tg[Anthony]From there, they will have to take care for themselves.
 \tg[Anthony]No, no. Tranquilo, tú quedarás aquí.
 \tg[Anthony]No, no. Don't worry, you'll stay here.
 \tg[Anthony]Ya estás muy mayor como para atravesar ese bosque, ¿no crees?
@@ -530,25 +530,25 @@ And they rested until the next day.
 \tg[Anthony](No me arrepentiré de esto, lo sé... ¡No lo haré!)
 \tg[Anthony](I won't regret this, I know... I won't!)
 \tg[Anthony]¿Para qué quiere mirarse en el espejo si es ciego?
-\tg[Anthony]Why do you want to look in the mirror if you are blind?
+\tg[Anthony]Why does he want to look themselves in the mirror if he is blind?
 \tg[Lucius]¡Que no es ciego! ¡Estoy convencido de que ve mejor que usted!
 \tg[Lucius]He is not blind! I am convinced that he sees better than you!
 \tg[Anthony]Tranquilízate, solo está durmiendo. No tiene ni un rasguño.
 \tg[Anthony]Calm down, he's just sleeping. He doesn't have a scratch.
 \tg[Phione]El Amo estaba muy malherido y \c[6]Phione</c> curó sus heridas lo más rápido que pudo.
-\tg[Phione]The Master was very badly injured and \c[6]Phione</c> healed his wounds as quickly as he could.
+\tg[Phione]The Master was very badly injured and \c[6]Phione</c> healed his wounds as quickly as she could.
 \tg[Phione]Pero el Amo no despertaba... ¡Phione se preocupó mucho!
 \tg[Phione]But the Master didn't wake up... Phione got very worried!
 \tg[???]¿Dónde...? ¿Dónde me encuentro...?
-\tg[???]¿Dónde...? ¿Dónde me encuentro...? 
+\tg[???]¿Where...? ¿Where am I...? 
 \tg[Anthony]En mi casa. ¿Puedes levantarte?
 \tg[Anthony]In my house. Can you get up?
 \tg[???]Oh... Destruido, ¡hecho pedacitos!
-\tg[???]Oh... Destruido, ¡hecho pedacitos! 
+\tg[???]Oh... Destroyed, ¡in bits and pieces! 
 \tg[Anthony]Se te cayeron mientras te traía hasta aquí. Llevabas también un trozo de tela y un cuaderno.
 \tg[Anthony]You dropped them while I was bringing you here. You also had a piece of cloth and a notebook.
 \tg[Anthony]Aquí tienes. Tranquilo, no lo he abierto.
-\tg[Anthony]Here you go. Don't worry, I haven't opened it.
+\tg[Anthony]There you go. Don't worry, I haven't opened it.
 \tg[???]Mmm...
 \tg[???]Mmm...
 \tg[???]¡Usted!
@@ -566,13 +566,13 @@ And they rested until the next day.
 \tg[Phione]F-fí...
 \tg[Phione]F-fi...
 \tg[Anthony](El que manda, comprendo.)
-\tg[Anthony](He who is in charge, I understand.)
+\tg[Anthony](He is the one in charge, I understand.)
 \tg[???]Mis disculpas, señor, debemos parecerle un par de <i>varados</i>.
 \tg[???]My apologies, sir, we must seem like a couple of <i>stranded</i>s to you.
 \tg[Anthony](¿"Varados"?)
 \tg[Anthony]("Stranded"?)
 \tg[???]Permita presentarnos como corresponde.
-\tg[???]Allow us to introduce ourselves accordingly.
+\tg[???]Allow us to introduce ourselves as  it should.
 \tg[Lucius]Mi nombre es \c[6]Lucius</c>, ¡soy el mismísimo Guardián de los Mares!
 \tg[Lucius]My name is \c[6]Lucius</c>, I am the Guardian of the Seas himself!
 \tg[Lucius]Aunque se me conoce mejor como el Pokémon \c[6]Lugia</c> entre los humanos.
@@ -592,9 +592,10 @@ And they rested until the next day.
 \tg[Anthony](Ah, claro, él es Lugia y yo el Rey de Kalos.)
 \tg[Anthony](Ah, of course, he is Lugia and I am the King of Kalos.)
 \tg[Anthony]Vale, ¿y cómo has acabado así tirado en la playa?
-\tg[Anthony]Vale, ¿y cómo has acabado así tirado en la playa? 
+\tg[Anthony]Ok, ¿how have you finished stranded in the beach? 
 \tg[Lucius]¡Ojalá pudiera responderle! He olvidado lo que ocurrió...
 \tg[Lucius]I wish I could answer you! I have forgotten what happened...
+HE COMPROBADO HASTA AQUI.
 \tg[Anthony]Vaya, mira tú qué casualidad.
 \tg[Anthony]Wow, look what a coincidence.
 \tg[Lucius]Pongámonos en marcha, Phione. Hemos de buscar una forma de arreglar el Rosario.
@@ -24837,7 +24838,7 @@ He uses his body like a hammer to pounce on his rival and cause damage.
 Ataca al oponente golpeándole con un hueso poseído por un espíritu. Puede reducir la Defensa del objetivo.
 Attacks the opponent by hitting them with a bone possessed by a spirit. It can reduce the target's Defense.
 624
-Reduce el daño de los ataques físicos y especiales que ejecuta el rival durante cinco turnos. Solo puede usarse cuando está nevando.
+Reduce el daño de los ataques físicos y especiales que ejecuta el rival durante cinco turnos. Solo puede usarse cuando está granizando.
 Reduces the damage of physical and special attacks carried out by the opponent for five turns. Can only be used when it is hailing.
 625
 Lanza una patada con la fuerza del trópico que golpea al rival y reduce su Ataque.
@@ -30054,7 +30055,7 @@ Prolongs the duration of the Rain Dance movement.
 Prolonga la duración del movimiento Tormenta Arena.
 Prolongs the duration of the Sandstorm move.
 87
-Prolonga la duración del movimiento Paisaje Nevado.
+Prolonga la duración del movimiento Granizo.
 Prolongs the duration of the Hail movement.
 88
 Prolonga la duración de barreras como Reflejo y Pantalla de Luz.
@@ -30675,7 +30676,7 @@ It takes the target, which is exchanged for another Pokémon. If it is a wild Po
 Envenena gravemente al objetivo y causa un daño mayor en cada turno.
 Heavily poisons the target and deals increased damage each turn.
 294
-Tormenta de nieve que dura cinco turnos. Hiere a todos, excepto a los de tipo Hielo.
+Tormenta de granizo que dura cinco turnos. Hiere a todos, excepto a los de tipo Hielo.
 Hail storm that lasts five turns. Injures everyone except Ice-types.
 295
 Robustece el cuerpo para subir el Ataque y la Defensa.
@@ -33110,7 +33111,7 @@ If the target is of the same sex, its competitiveness leads it to inflict more d
 Cada vez que retrocede sube su Velocidad, debido a su voluntad inquebrantable.
 Every time he retreats his Speed ​​increases, due to his unbreakable will.
 81
-Sube la Evasión cuando nieva.
+Sube la Evasión cuando graniza.
 Raise Evasion when it hails.
 82
 Cuando sus PS se ven reducidos a la mitad, engulle la baya que solo se comería cuando le quedasen pocos PS.
@@ -33212,13 +33213,13 @@ Normal or Fighting type moves reach Ghost type Pokémon.
 Además de atraer y neutralizar los movimientos de tipo Agua, sube el Ataque Especial.
 In addition to attracting and neutralizing Water-type moves, it raises Special Attack.
 115
-Recupera PS de forma gradual cuando hay tormentas de nieve.
+Recupera PS de forma gradual cuando hay tormentas de granizo.
 Gradually recovers HP during hail storms.
 116
 Mitiga el daño que le infligen los movimientos supereficaces.
 Mitigates damage dealt by super-effective moves.
 117
-El Pokémon invoca una tormenta de nieve al entrar en combate.
+El Pokémon invoca una tormenta de granizo al entrar en combate.
 The Pokémon summons a hail storm when entering combat.
 118
 Es posible que el Pokémon encuentre Miel una vez concluido el combate.
@@ -33293,7 +33294,7 @@ Elude allied attacks during combat.
 Cada turno sube mucho una característica, pero baja otra.
 Each turn one characteristic goes up a lot, but another goes down.
 142
-Protege al Pokémon de las tormentas de arena, nieve y los movimientos con polvos.
+Protege al Pokémon de las tormentas de arena, el granizo y los movimientos con polvos.
 Protects the Pokémon from sandstorms, hail, and dust moves.
 143
 Puede envenenar al objetivo con solo tocarlo.
@@ -33455,7 +33456,7 @@ Converts Normal type movements into Electric type and slightly increases their p
 Reacciona copiando la habilidad de un aliado debilitado.
 React by copying the ability of a weakened ally.
 196
-Aumenta su Velocidad si está nevando.
+Aumenta su Velocidad si está granizando.
 Increase your Speed ​​if it is hailing.
 197
 Duplica el daño infligido a un Pokémon que se haya incorporado al combate mediante un cambio.
@@ -33629,7 +33630,7 @@ When hit by a contact move, both the attacker and the Pokémon using the ability
 Provoca una Tormenta de Arena al recibir un ataque.
 Causes a Sandstorm when attacked.
 254
-Recibe el daño ocasionado por un ataque físico con el hielo de su cabeza en lugar de afectar al Pokémon, tras lo cual cambia su forma. El hielo de su cabeza se restaura cuando vuelva a nevar.
+Recibe el daño ocasionado por un ataque físico con el hielo de su cabeza en lugar de afectar al Pokémon, tras lo cual cambia su forma. El hielo de su cabeza se restaura cuando vuelva a granizar.
 It takes the damage caused by a physical attack with the ice on its head instead of affecting the Pokémon, after which it changes its form. The ice on its head is restored when it hails again.
 255
 Potencia los movimientos de los Pokémon adyacentes.
@@ -37876,7 +37877,7 @@ The core of {1} was broken!
 {2} of {1} intensified the sun's rays!
 ¡{2} de {1} levantó una tormenta de arena!
 {2} of {1} raised a sandstorm!
-¡{2} de {1} provocó nieve!
+¡{2} de {1} provocó granizo!
 {2} of {1} caused hail!
 ¡{1} cambió de forma!
 {1} changed shape!
@@ -38840,7 +38841,7 @@ The mysterious turbulence continues to blow incessantly!
 The sun is shining!
 ¡Ha empezado a llover!
 It's started to rain!
-¡Ha empezado a nevar!
+¡Ha empezado a granizar!
 It's started to hail!
 ¡El equipo enemigo ha sido rodeado de púas!
 The enemy team has been surrounded by spikes!
@@ -39338,7 +39339,7 @@ Sigue lloviendo...
 Still raining...
 La tormenta de arena arrecia...
 The sandstorm rages...
-Sigue nevando...
+Sigue granizando...
 It keeps hailing...
 Sigue diluviando...
 It keeps pouring...
@@ -39372,9 +39373,9 @@ La tormenta de arena amainó.
 The sandstorm subsided.
 ¡La tormenta de arena zarandea a {1}!
 The sandstorm shakes {1}!
-Ha dejado de nevar.
+Ha dejado de granizar.
 It has stopped hailing.
-¡La nieve zarandea a {1}!
+¡El granizo zarandea a {1}!
 The hail shakes {1}!
 ¡El diluvio ha terminado!
 The flood is over!
