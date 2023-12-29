@@ -1333,12 +1333,8 @@ Anthony, Lucius y Phione embarcaron...
 Anthony, Lucius and Phione embarked...
 Este sería el comienzo de sus aventuras juntos por el mar.
 This would be the beginning of their adventures together by the sea.
-
-
-
-
 \tg[Anthony](Por aquí se va al puerto. Tenemos que ir a la taberna...)
-\tg[Anthony](This way you go to the port. We have to go to the tavern...)
+\tg[Anthony](This way you go to the harbor. We have to go to the tavern...)
 \tg[Anthony](Este Pokémon huele muy mal por algún motivo...)
 \tg[Anthony](This Pokémon smells really bad for some reason...)
 \tg[Lucius]Qué bien vive el Sr. Snorlax. Se pasa el día durmiendo...
@@ -1354,15 +1350,15 @@ This would be the beginning of their adventures together by the sea.
 \tg[Aldeana]A eso, precisamente.
 \tg[Villager]To that, precisely.
 \tg[Navegante]Tiene una compañía un tanto peculiar...
-\tg[Navigator]He has a somewhat peculiar company...
+\tg[Navigator]You have a somewhat peculiar company...
 \tg[Anthony]Soy plenamente consciente de ello.
-\tg[Anthony]I am fully aware of this.
+\tg[Anthony]I am fully aware of that.
 \tg[Anthony](Pero con un poco de suerte, me libraré de ella pronto.)
-\tg[Anthony](But with any luck, I'll get rid of her soon.)
+\tg[Anthony](But with some luck, I'll get rid of them soon.)
 \tg[Aldeana]¿Quiénes son estas personas que le acompañan, caballero? ¿Son sus lacayos?
-\tg[Villager]Who are these people accompanying you, knight? Are they your lackeys?
+\tg[Villager]Who are these people accompanying you, gentleman? Are they your servants?
 \tg[Anthony]¿Lacayos? ¿Pero en qué época te crees que estamos?
-\tg[Anthony]Lackeys? But what era do you think we are in?
+\tg[Anthony]Servants? But what era do you think we are in?
 \tg[Lucius]Así puede decirse, sí. Tanto el Pokémon azul como un servidor somos meros esclavos...
 \tg[Lucius]That's how it can be said, yes. Both the blue Pokémon and a servant are mere slaves...
 \tg[Aldeana]¿E-esclavos...? ¿De qué tipo?
@@ -1376,7 +1372,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Es broma, es broma.
 \tg[Lucius]Just kidding, just kidding.
 \tg[Lucius]¡Ahora gire a <i>estupor</i>!
-\tg[Lucius]Now turn to <i>stupor</i>!
+\tg[Lucius]Now turn to <i>stormboard</i>!
 \tg[Anthony]Quieres decir "estribor". Si no te sabes los términos, solo di "derecha" o "izquierda".
 \tg[Anthony]You mean "starboard". If you don't know the terms, just say "right" or "left".
 \tg[Lucius]¡Bien, pero hágame caso!
@@ -1384,25 +1380,25 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius](Estas corrientes...)
 \tg[Lucius](These currents...)
 \tg[Lucius]¡Phione, usa Rayo Confuso en esa dirección!
-\tg[Lucius]Phione, use Confusing Ray in that direction!
+\tg[Lucius]Phione, use Confuse Ray in that direction!
 \tg[Phione]¿Gah? Pero si ahí no hay Pokémon...
 \tg[Phione]Gah? But there are no Pokémon there...
 \tg[Lucius]Los habrá cuando descubran que pueden acercarse rápidamente si se dejan llevar por la corriente.
-\tg[Lucius]There will be some when they discover that they can approach quickly if they go with the flow.
+\tg[Lucius]There will be some when they discover that they can approach quickly if they go with the current.
 \tg[Lucius](El viento sopla de forma inusual hacia el oeste... ¡El mar realmente parece estar en contra de nosotros!)
 \tg[Lucius](The wind blows unusually towards the west... The sea really seems to be against us!)
 \tg[Lucius]Mantén también Velo Sagrado por los alrededores. Si sientes algo fuera de lo normal, avísame de inmediato.
-\tg[Lucius]Also keep Holy Veil around. If you feel anything out of the ordinary, let me know immediately.
+\tg[Lucius]Also keep Safeguard around. If you feel anything out of the ordinary, let me know immediately.
 \tg[Phione]¡F-fí!
-\tg[Phione]F-hee!
+\tg[Phione]F-fi!
 \tg[Lucius]¡Mr. Anthony, otra vez a <i>estupor</i>! ¡O como se diga!
-\tg[Lucius]Mr. Anthony, back to <i>stupor</i>! Or whatever you say!
+\tg[Lucius]Mr. Anthony, back to <i>stormboard</i>! Or whatever you say!
 \tg[Anthony]Vale... ¿A dónde vamos, de todas formas?
 \tg[Anthony]Okay... Where are we going, anyway?
 \tg[Lucius]A la isla de la Tercera. Tal y como su nombre indica, es la tercera de las Aves Guardianas.
-\tg[Lucius]To the island of the Third. As its name indicates, it is the third of the Guardian Birds.
+\tg[Lucius]To the island of the Third. As its name indicates, she is the third of the Guardian Birds.
 \tg[Lucius]¡Ah, vuelva a girar por aquí! ¡Y Phione, un Rayo Confuso más al otro lado!
-\tg[Lucius]Ah, turn this way again! And Phione, one more Confusing Ray on the other side!
+\tg[Lucius]Ah, turn this way again! And Phione, one more Confuse Ray on the other side!
 \tg[Anthony](Al menos parece que sabe lo que hace. No hemos encontrado ni un solo Pokémon peligroso, y hemos dejado atrás nubes de tormenta como si supiera que fueran a ocurrir...)
 \tg[Anthony](At least he seems to know what he's doing. We haven't encountered a single dangerous Pokémon, and we've left storm clouds behind like he knew they were coming...)
 \tg[Anthony](El Guardián del Mar, Lugia... Y el Rey del Mar, Kyogre.)
@@ -1410,19 +1406,19 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony](Más tarde, debería preguntarle a Lucius sobre qué papel cumplen exactamente.)
 \tg[Anthony](Later, I should ask Lucius about exactly what role they play.)
 \tg[Lucius]¡Mirad allí! ¡Se divisa tierra firme!
-\tg[Lucius]Look over there! You can see solid land!
+\tg[Lucius]Look over there! You can see solid ground!
 \tg[Phione]¡Ya casi estamos!
 \tg[Phione]We're almost there!
 \tg[Lucius]¡Oooh! ¡Civilización humana!
 \tg[Lucius]Oooh! Human civilization!
 \tg[Phione]¡Cuánta gente, fí!
-\tg[Phione]How many people, phi!
+\tg[Phione]So much people, fi!
 \tg[Anthony]Intenta no hacerte notar demasiado. Por lo general, los Pokémon no hablan...
 \tg[Anthony]Try not to stand out too much. Pokémon usually don't talk...
 \tg[Anthony]Y ahora veamos. Cuando me retiré como Portador y viajero, dejé mi barco junto a una antigua compañera de oficio, Preta. Era, y es, una magnífica capitana.
-\tg[Anthony]And now let's see. When I retired as a Carrier and traveler, I left my ship with an old colleague, Preta. She was, and is, a magnificent captain.
+\tg[Anthony]Let's see now. When I retired as a Carrier and traveler, I left my ship with an old colleague, Preta. She was, and is, a magnificent captain.
 \tg[Lucius]Así pues, hemos de dirigirnos hacia el puerto para encontrarla, ¿me equivoco?
-\tg[Lucius]So, we have to head towards the port to find her, am I wrong?
+\tg[Lucius]So, we have to head towards the harbor to find her, am I wrong?
 \tg[Anthony]No... Si sigue siendo la misma de siempre, el lugar en el que es más probable que esté es...
 \tg[Anthony]No... If she's still the same as always, the place she's most likely to be is...
 \tg[Anthony]La taberna.
@@ -1430,21 +1426,21 @@ This would be the beginning of their adventures together by the sea.
 \tg[Phione]¿Qué se hace en una taberna?
 \tg[Phione]What do you do in a tavern?
 \tg[Lucius]Se trata de un lugar que frecuentan los humanos más emocionalmente perjudicados en busca de consuelo.
-\tg[Lucius]This is a place that the most emotionally damaged humans frequent in search of solace.
+\tg[Lucius]It is a place that the most emotionally damaged humans frequent in search of consolation.
 \tg[Lucius]Gastan su dinero en bebidas que les hace olvidar sus problemas a costa de su salud física y mental.
 \tg[Lucius]They spend their money on drinks that make them forget their problems at the expense of their physical and mental health.
 \tg[Phione]No parece un lugar muy útil...
 \tg[Phione]Doesn't seem like a very useful place...
 \tg[Anthony](Estoy intentando pensar en algo mejor para describirla, pero la verdad es que lo ha clavado.)
-\tg[Anthony](I'm trying to think of something better to describe her, but you really nailed it.)
+\tg[Anthony](I'm trying to think of something better to describe her, but they really nailed it.)
 \tg[Anthony]Pues venga, a la taberna.
 \tg[Anthony]Well, come on, to the tavern.
 \tg[Lucius]¡<i>Volante</i> que vamos!
-\tg[Lucius]<i>Volante</i> let's go!
+\tg[Lucius]<i>Foward</i> We go!
 \tg[Anthony](Mmm... ¿"P'alante"...?)
-\tg[Anthony](Mmm... "P'alante"...?)
+\tg[Anthony](Mmm... "Forward"...?)
 \tg[Aldeana]Llevo dándole de comer a este pececito todos los días. ¡Espero que crezca feliz y contento!
-\tg[Village]I have been feeding this little fish every day. I hope it grows happy and content!
+\tg[Village]I have been feeding this little fish every day. I hope it grows happy and pleased!
 \tg[Basculin](Eso es, humana. Sigue alimentándome, ¡y algún día evolucionaré y me comeré a tu familia! ¡Mua, ja, ja!)
 \tg[Basculin](That's right, human. Keep feeding me, and one day I'll evolve and eat your family! Mua ha ha!)
 \tg[Phione]Anthony, dile a esa chica que deje de hacer eso.
@@ -1456,11 +1452,11 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]Disculpe.
 \tg[Anthony]Excuse me.
 \tg[Navegante]¡Hola! ¿Puedo ayudarles?
-\tg[Navigator]Hello! Can I help you?
+\tg[Navigator]Hello! May I help you?
 \tg[Anthony]Pues sí. ¿Hay alguien por aquí que pueda darnos un viaje en barco?
-\tg[Anthony]Well yes. Is there anyone around here who can give us a boat trip?
+\tg[Anthony]Yes. Is there anyone around here who can give us a boat trip?
 \tg[Anthony]Concretamente a las islas Pontos, Glauco y Talasa.
-\tg[Anthony]Specifically the islands of Pontos, Glauco and Thalassa.
+\tg[Anthony]Specifically the islands of Pontos, Glaucus and Thalassa.
 \tg[Navegante]Vaya, he oído que el transporte de mercancías entre esas islas está yendo fatal. Normalmente les sugeriría que acompañasen a los mercaderes, pero no queda nadie.
 \tg[Navigator]Wow, I heard that the transport of goods between those islands is going badly. Normally I would suggest that you accompany the merchants, but there is no one left.
 \tg[Anthony]Entiendo. Una lástima...
@@ -1468,15 +1464,15 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]¡Usted parece disponible!
 \tg[Lucius]You seem available!
 \tg[Navegante]¿Quién, yo? Un servidor ya solo se dedica a pescar, lo siento.
-\tg[Navigator]Who, me? A server is now only dedicated to fishing, sorry.
+\tg[Navigator]Who, me? A servant is now only dedicated to fishing, sorry.
 \tg[Navegante]El otro día compré por fin un navío. Es algo feito, pero salió barato y hace muy bien su trabajo.
 \tg[Navigator]The other day I finally bought a boat. It's a little ugly, but it was cheap and it does its job very well.
 \tg[Anthony]U-un momento... ¿¡Ese es mi barco!?
-\tg[Anthony]W-wait... That's my ship!?
+\tg[Anthony]W-wait a second... That's my ship!?
 \tg[Navegante]¿Su barco? Alguien lo empeñó y se puso en venta por impago, así que ahora es mío.
 \tg[Navigator]Your boat? Someone pawned it and it was put up for sale due to non-payment, so now it's mine.
 \tg[Anthony]¿Y no tendría interés en volverlo a vender, por casualidad?
-\tg[Anthony]And you wouldn't be interested in selling it again, by any chance?
+\tg[Anthony]Wouldn't you be interested in selling it again, by any chance?
 \tg[Navegante]Ni hablar, ¡pescar con él es una maravilla! Es tan silencioso que los Magikarp ni se percatan de su presencia.
 \tg[Navigator]No way, fishing with it is a wonder! It's so silent that the Magikarp don't even notice its presence.
 \tg[Anthony]C-comprendo...
@@ -1486,9 +1482,9 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Si le gustan los Magikarp, ¡capturaré cientos para usted si nos deja el barco!
 \tg[Lucius]If you like Magikarp, I'll capture hundreds for you if you let us have the ship!
 \tg[Navegante]¿¡L-Lugia!? ¿Pero qué dice?
-\tg[Navigator]L-Lugia!? But what does it say?
+\tg[Navigator]L-Lugia!? What is he saying?
 \tg[Anthony]¡Nada! ¡Ni caso!
-\tg[Anthony]Nothing! No way!
+\tg[Anthony]Nothing! Don't mind it!
 \tg[Phione]¿¡Seguro que no quieres nada por el barco!?
 \tg[Phione]Are you sure you don't want anything for the boat!?
 \tg[Navegante]¿¡Y un Pokémon que habla!?
@@ -1496,7 +1492,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Phione]¡Es muy importante para Anthony! ¡Debe haber algo que podamos ofrecerte!
 \tg[Phione]It's very important to Anthony! There must be something we can offer you!
 \tg[Phione]¡Mira estas conchas y caracolas de colores! ¿No las quieres, fí?
-\tg[Phione]Look at these colorful shells and conchs! Don't you want them, fi?
+\tg[Phione]Look at these conchs and colourful shells! Don't you want them, fi?
 \tg[Navegante]Es una broma, ¿verdad? Si fueran un puñado de perlas quizá me lo pensaría, pero...
 \tg[Navigator]It's a joke, right? If they were a handful of pearls I might think about it, but...
 \tg[Phione]¡Perlas! ¿Cuántas quieres?
@@ -1504,17 +1500,17 @@ This would be the beginning of their adventures together by the sea.
 \tg[Navegante]¿E-eh? Lo he dicho por decir... ¿Un saquito de ellas?
 \tg[Navigator] E-eh? I said it just to say... A little bag of them?
 \tg[Phione]¡Un saquito de perlas!
-\tg[Phione]A bag of pearls!
+\tg[Phione]A little bag of pearls!
 \tg[Phione]¡Anthony, consigamos las perlas!
 \tg[Phione]Anthony, let's get the pearls!
 \tg[Lucius]¿¡Y dónde se supone que vamos a conseguirlas!? ¡No hables sin saber, Phione!
-\tg[Lucius]And where are we supposed to get them!? Don't speak without knowing, Phione!
+\tg[Lucius]Where are we supposed to get them!? Don't speak without knowing, Phione!
 \tg[Phione]Gah...
 \tg[Phione]Gah...
 \tg[Anthony]Perlas... Recuerdo una cueva al sur del pueblo donde era fácil encontrar algunas, ¿no?
 \tg[Anthony]Pearls... I remember a cave south of town where it was easy to find some, right?
 \tg[Navegante]¿Fácil? Si fuera fácil no lo habría mencionado. Esa cueva está llena de Pokémon salvajes.
-\tg[Navigator]Easy? If it were easy I wouldn't have mentioned it. That cave is full of wild Pokémon.
+\tg[Navigator]Easy? If it was easy I wouldn't have mentioned it. That cave is full of wild Pokémon.
 \tg[Anthony]Bien. Se las traeré.
 \tg[Anthony]Okay. I'll bring them to you.
 \tg[Phione]¡Lo conseguiremos!
@@ -1522,25 +1518,29 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Una cueva... Hum.
 \tg[Lucius]A cave... Hum.
 \tg[Anthony](Nada de entrar en casas ajenas...)
-\tg[Anthony](No entering other people's houses...)
+\tg[Anthony](No tresspassing...)
 \tg[Aldeano]Oiga, ¿usted sabe leer? ¿Puede ayudarme con esto?
 \tg[Villager]Hey, can you read? Can you help me with this?
 \tg[Anthony]Pues sí, tuve la suerte de aprender cuando era pequeño. ¿Qué necesita?
-\tg[Anthony]Well yes, I was lucky to learn when I was little. What do you need?
+\tg[Anthony]Yes, I was lucky to learn when I was little. What do you need?
 \tg[Aldeano]Les compré algunas semillas a unos mercaderes y olvidé preguntarles cómo cuidarlas. ¿Puede leer las intrucciones por mí? ¿Cuándo debo plantarlas?
-\tg[Villager]I bought some seeds from some merchants and I forgot to ask them how to care for them. Can you read the instructions for me? When should I plant them?
+\tg[Villager]I bought some seeds from some merchants and I forgot to ask them how to care of them. Can you read the instructions for me? When should I plant them?
 \tg[Anthony]Veamos... Ah, conozco estas semillas. Las Bayas Aranja deben plantarse en invierno y cosecharse en primavera.
-\tg[Anthony]Let's see... Ah, I know these seeds. Orange Berries should be planted in winter and harvested in spring.
+\tg[Anthony]Let's see... Ah, I know these seeds. Oran Berries should be planted in winter and harvested in spring.
 \tg[Anthony]No necesitan que las riegues mucho, pero son muy populares entre los Pokémon. Le recomiendo que se busque un espantapájaros para evitar en lo máximo posible que se acerquen a ellas.
-\tg[Anthony]They don't need to be watered much, but they are very popular with Pokémon. I recommend that you find a scarecrow to prevent them from getting close to them as much as possible.
+\tg[Anthony]They don't need to be watered much, but they are very popular among Pokémon. I recommend you to buy a scarecrow to prevent them from getting close to them as much as possible.
 \tg[Lucius]Tch.
 \tg[Lucius]Tch.
 \tg[Anthony]¿Y a ti qué te pasa?
-\tg[Anthony]And what's wrong with you?
+\tg[Anthony]What's wrong with you?
 \tg[Lucius]¡Tch!
 \tg[Lucius]Tch!
 \tg[Anthony](Tengo que \c[2]regresar a casa</c> cuanto antes. ¡Necesito saber si el viejo Wal está...!)
 \tg[Anthony](I have to \c[2]get back home</c> as soon as possible. I need to know if old Wal is...!)
+
+
+
+
 \tg[Anthony]¿Qué va a hacer con las perlas que ha conseguido?
 \tg[Anthony]What are you going to do with the pearls you have gotten?
 \tg[Navegante]Esconderlas de mi mujer, para empezar.
