@@ -1537,44 +1537,40 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Tch!
 \tg[Anthony](Tengo que \c[2]regresar a casa</c> cuanto antes. ¡Necesito saber si el viejo Wal está...!)
 \tg[Anthony](I have to \c[2]get back home</c> as soon as possible. I need to know if old Wal is...!)
-
-
-
-
 \tg[Anthony]¿Qué va a hacer con las perlas que ha conseguido?
 \tg[Anthony]What are you going to do with the pearls you have gotten?
 \tg[Navegante]Esconderlas de mi mujer, para empezar.
-\tg[Navigator]Hide them from my wife, for starters.
+\tg[Navigator]First of all, I'm going to hide them from the sky.
 \tg[Navegante]Como me despiste en vez de un barco nuevo, se compra el perfume más caro y nos quedamos sin nada.
-\tg[Navigator]Since I got distracted, instead of a new boat, he bought the most expensive perfume and we were left with nothing.
+\tg[Navigator]When I got distracted, instead of a new boat, she bought the most expensive perfume and we were left with nothing.
 \tg[Anthony]Entiendo. Mucha suerte con eso.
 \tg[Anthony]I understand. Good luck with that.
 \tg[Anthony](Si mi mujer llegase a encontrar alguno de mis ahorros secretos sería hombre muerto.)
-\tg[Anthony](If my wife ever found any of my secret savings I would be a dead man.)
+\tg[Anthony](If my wife had ever found any of my secret savings I would be a dead man.)
 [Map26]
 [Map27]
 \tg[Panpour](¡Humana graciosa! ¡Humana graciosa!)
 \tg[Panpour](Funny human! Funny human!)
 \tg[Anthony]Muy buenos días. ¿Habéis descansado?
-\tg[Anthony]Very good morning. Have you rested?
+\tg[Anthony]Good morning everyone. Have you rested?
 \tg[Lucius]¿¡C-cómo ha madrugado tanto!? Es demasiado pronto incluso para mis estándares...
-\tg[Lucius]H-how did you get up so early!? It's too early even by my standards...
+\tg[Lucius]H-how did you get up so early!? It's too early even for my standards...
 \tg[Phione]Phione ha dormido regular. Phione tuvo que dormir con la luz encendida porque el Amo no quiso apagar la dichosa velita.
-\tg[Phione]Phione slept well. Phione had to sleep with the light on because the Master didn't want to blow out the damn candle.
+\tg[Phione]Phione didn't sleep much. Phione had to sleep with the light on because the Master didn't want to blow out the damn candle.
 \tg[Phione]Y cuando se gastaba, encendía otra.
-\tg[Phione]And when it was spent, he lit another one.
+\tg[Phione]And when it was done, he lit another one.
 \tg[Lucius]Mis horas de sueño son más valiosas.
 \tg[Lucius]My hours of sleep are more valuable.
 \tg[Phione]Fí...
 \tg[Phione]Fí...
 \tg[Anthony]En fin. He madrugado para hablar con el navegante y negociar el trato con las perlas.
-\tg[Anthony]Anyway. I got up early to talk to the navigator and negotiate the deal with the pearls.
+\tg[Anthony]Anyway. I got up early to talk with the navigator and negotiate the deal with the pearls.
 \tg[Anthony]El barco vuelve a ser mío, así que Preta os estará esperando en el puerto para llevaros.
-\tg[Anthony]The ship is mine again, so Preta will be waiting for you at the port to take you.
+\tg[Anthony]The ship is mine again, so Preta will be waiting for you at the harbor to take you.
 \tg[Lucius]¿La señorita beoda? ¿No va a llevarnos usted?
-\tg[Lucius]Miss Drunk? Aren't you going to take us?
+\tg[Lucius]Miss drunk? Aren't you going to take us?
 \tg[Anthony]Ya te dije que no. Además, ¿has olvidado todo lo que pasó ayer?
-\tg[Anthony]I already told you no. Besides, have you forgotten everything that happened yesterday?
+\tg[Anthony]I already said that I won't. Have you forgotten everything that happened yesterday?
 \tg[Anthony]Imagina todo lo que puede ocurrir en alta mar. No voy a arriesgarme a que pase algo peor.
 \tg[Anthony]Imagine everything that can happen on the high seas. I'm not going to risk something worse happening.
 \tg[Lucius](...)
@@ -1582,21 +1578,21 @@ This would be the beginning of their adventures together by the sea.
 \tg[Phione]¿Phione debe decir adiós ahora?
 \tg[Phione]Should Phione say goodbye now?
 \tg[Anthony]Bueno, os puedo acompañar hasta que zarpéis. Al menos el puerto es un lugar más bonito para despedirse.
-\tg[Anthony]Well, I can accompany you until you set sail. At least the port is a nicer place to say goodbye.
+\tg[Anthony]Well, I can accompany you until you set sail. At least the harbor is a nicer place to say goodbye.
 \tg[Lucius]¿Cómo acabó así, señorita?
-\tg[Lucius]How did it end up like this, miss?
+\tg[Lucius]How did you end up like this, miss?
 \tg[Preta]¿Ashí cómo? ¿Shin dinero?
-\tg[Preta]This how? Shin money?
+\tg[Preta]Tis how? Withou money?
 \tg[Preta]Puesh she me ocurrió sheguir un mapa hashta la "X"... Pero en lugar de encontrar un teshoro, me ashaltaron unosh bandidosh. ¡Hic!
-\tg[Preta]Well, it occurred to me to follow a map to the "X"... But instead of finding a treasure, I was attacked by some bandidos. Hic!
+\tg[Preta]Well, it came to my min the idea of following a map to the "X"... But instead of finding a treashure, I was asshaulted by some bandits. Hic!
 \tg[Preta]Tenían Pokémon de shu parte y no pude hacer mucho por defenderme. Parece que she está poniendo de moda esho de sher "Portador".
-\tg[Preta]They had Pokémon on their side and I couldn't do much to defend myself. It seems that she is becoming fashionable with that of sher "Bearer".
+\tg[Preta]They had Pokémon on their shide and I couldn't do much to defend myself. It seems that ish becoming trendy bein a "Carrier".
 \tg[Lucius]Oh, creía que el Panpour era suyo. Parece muy apegado a usted.
 \tg[Lucius]Oh, I thought the Panpour was yours. He seems very attached to you.
 \tg[Preta]Qué va. Esh sholo que she me agarra a la capa y me shigue a todash partesh... Creo que esh cieguito, el pobre.
-\tg[Preta]What's wrong. It's just that she grabs my cape and follows me everywhere... I think he's blind, the poor thing.
+\tg[Preta]Quite the opposite. He jhust grabs my cape and follows me everywher... I think he's blind, poor thing.
 \tg[Lucius](Que mantenga los ojos cerrados no quiere decir que no pueda ver...)
-\tg[Lucius](Just because I keep my eyes closed doesn't mean I can't see...)
+\tg[Lucius](Just because he keeps his eyes closed doesn't mean he can't see...)
 \tg[Anciano]Si hay algo que necesites...
 \tg[Elder]If there is anything you need...
 \tg[Anthony](Podría ser interesante, este hombre siempre ha tenido de todo.)
@@ -1604,27 +1600,27 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]Muy interesante, pero ya me voy.
 \tg[Anthony]Very interesting, but I'm leaving.
 \tg[Anciano]¡Anthony! Sí que te has dejado crecer la barba, ¡y eso que decías que no te gustaba ni un pelo, nunca mejor dicho!
-\tg[Elder]Anthony! You really have let your beard grow, and you said you didn't like it one bit, never better put!
+\tg[Elder]Anthony! You have really let your beard grow, and you said you didn't like it one bit, can't be said better!
 \tg[Anthony]Je, ¿y usted? Dijo que iba a dejar de beber, y no se ha movido de sitio desde la última vez que lo vi.
 \tg[Anthony]Heh, what about you? You said you were going to stop drinking, and you haven't moved since the last time I saw you.
 \tg[Anciano]¡Me quedo por el ambiente, el ambiente! Y para echarle el ojo a alguna que otra chica bonita...
-\tg[Elder]I stay for the atmosphere, the atmosphere! And to keep an eye on the occasional pretty girl...
+\tg[Elder]I stay for the atmosphere, the atmosphere! And to keep an eye on the occasional pretty girls...
 \tg[Anthony]Deberían mantenerte encerrado, viejo.
 \tg[Anthony]They should keep you locked up, old man.
 \tg[Anciano]En fin, todavía me dedico a comerciar con reliquias, ¿sabes?
-\tg[Elder]Well, I'm still trading relics, you know?
+\tg[Elder]Well, I still trade relics, you know?
 \tg[Mesero]¿Seguro que no quieres nada? ¿Y si invita la casa?
-\tg[Waiter]Are you sure you don't want anything? What if the house invites you?
+\tg[Waiter]Are you sure you don't want anything? What if it's on the house?
 \tg[Anthony]Buen intento, pero no. Tengo prisa.
 \tg[Anthony]Nice try, but no. I'm in a hurry.
 \tg[Anthony]Aunque... Tal vez en otra ocasión no te diga que no.
-\tg[Anthony]Although... Maybe another time I won't say no to you.
+\tg[Anthony]Although... Maybe another time I won't refuse that drink.
 \tg[Mesero]Como quieras, ¡ya sabes dónde estamos!
 \tg[Waiter]As you wish, you know where we are!
-\tg[Comerciante]Dinero. Monedas. ¿Tienes?
-\tg[Merchant]Money. Coins. Do you have?
-\tg[Comerciante]Cambiaré 5 Monedas por un objeto curativo. Acepta.
-\tg[Merchant]I will exchange 5 Coins for a healing item. Accept.
+\tg[Comerciante]Oye, tú. Monedas. ¿Tienes?
+\tg[Merchant]Hey. Coins. Got 'em?
+\tg[Comerciante]Dame 80 de ellas y perfeccionaré todos los IVs de uno de tus Pokémon. Acepta.
+\tg[Merchant]Gimme 80 of them, and I will perfect all the IVs of one of your Pokémon. Make the deal.
 \tg[Anthony](Me da un poco de mal rollo...)
 \tg[Anthony](It gives me a bit of a bad feeling...)
 \tg[Comerciante]No tienes Monedas. Pobretón.
@@ -1654,17 +1650,17 @@ This would be the beginning of their adventures together by the sea.
 \tg[Aldeano]¿Es usted Portador? ¿No le ocurre que, tras ponerle un mote a un Pokémon, siente que igual ya no le gusta y prueba a ponerle otro?
 \tg[Villager]Are you a Carrier? Doesn't it happen to you that, after giving a Pokémon a nickname, you feel that you don't like it anymore and try giving it another?
 \tg[Aldeano]Y así una y otra vez...
-\tg[Villager]And so on and on...
+\tg[Villager]And time after time...
 \tg[Anthony]Pues no, la verdad es que suelo ser bastante decidido con esas cosas.
-\tg[Anthony]Well no, the truth is that I tend to be quite determined with those things.
+\tg[Anthony]Actually no, the truth is that I tend to be quite determined with those things.
 \tg[Aldeano]¿Cómo llama a su acompañante azulado?
-\tg[Villager]What do you call your blue companion?
+\tg[Villager]How do you call your blue companion?
 \tg[Phione]Fí.
 \tg[Phione]Fí.
 \tg[Anthony]¿Phione?
 \tg[Anthony]Phione?
 \tg[Aldeano]Ese es el nombre de su especie, ¿no? No es por nada, pero igual debería buscarle un mote...
-\tg[Villager]That's the name of your species, right? It's not for nothing, but I should still find a nickname for it...
+\tg[Villager]That's the name of their species, right? It's not a triviality, but you should still find a nickname for it...
 \tg[Lucius]"Bob".
 \tg[Lucius]"Bob". 
 \tg[Anthony]Tú no opines.
@@ -1688,11 +1684,21 @@ This would be the beginning of their adventures together by the sea.
 \tg[Preta]¡Aaaah!
 \tg[Preta]Aaaah!
 \tg[Preta]¿¡Y eshta quién esh, Tony!? ¿Ya te hash bushcado una nueva novia?
-\tg[Preta]And who is this, Tony!? Have you already found a new girlfriend?
+\tg[Preta]Who is thish, Tony!? Have you alredy found a new girlfriend?
 \tg[Anthony]Si te dijera quien dice ser, el borracho parecería yo.
-\tg[Anthony]If I told you who he says he is, I would look like a drunk.
+\tg[Anthony]If I told you who says they are, I would look like the drunk.
 \tg[Preta]¡Un momento! Dosh... Tresh...
-\tg[Preta]Wait a minute! Dosh... Tresh...
+\tg[Preta]Wait a minute! To... Thre...
+
+
+
+
+
+
+
+
+
+
 \tg[Preta]Ay, ¿¡esh que no te valía con una!? ¿Qué va a penshar la gente cuando te vea con cuatro albinash? ¡Hic!
 \tg[Preta]Oh, you weren't worth one!? What are people going to think when they see you with four albinash? Hic!
 \tg[Lucius]Sería interesante verla reaccionar a un Pokémon usando Doble Equipo...
