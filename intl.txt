@@ -1689,52 +1689,42 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]If I told you who says they are, I would look like the drunk.
 \tg[Preta]¡Un momento! Dosh... Tresh...
 \tg[Preta]Wait a minute! To... Thre...
-
-
-
-
-
-
-
-
-
-
 \tg[Preta]Ay, ¿¡esh que no te valía con una!? ¿Qué va a penshar la gente cuando te vea con cuatro albinash? ¡Hic!
-\tg[Preta]Oh, you weren't worth one!? What are people going to think when they see you with four albinash? Hic!
+\tg[Preta]Oh, hadn't yu enough with one!? What ar people going to think when they see you with four albinosh? Hic!
 \tg[Lucius]Sería interesante verla reaccionar a un Pokémon usando Doble Equipo...
 \tg[Lucius]It would be interesting to see her react to a Pokémon using Double Team...
 \tg[Anthony]Bueno, ya está bien. Preta, ¿recuerdas el barco que te dejé?
-\tg[Anthony]Well, that's it. Preta, do you remember the boat I left you?
+\tg[Anthony]Well, enough. Preta, do you remember the boat I left you?
 \tg[Preta]El barco...
 \tg[Preta]The ship...
 \tg[Preta]¡Claro! ¡Shí, tu barco!
-\tg[Preta]Sure! Yes, your ship!
+\tg[Preta]Of course! Ye, your ship!
 \tg[Preta]¿Qué pasha con él?
-\tg[Preta]What's up with him?
+\tg[Preta]Why do yu ask?
 \tg[Anthony]La señorita albina tiene que salir de la isla junto a su Pokémon y quiero que los lleves. Puedes hacerlo, ¿no?
 \tg[Anthony]The albino lady has to leave the island with her Pokémon and I want you to take them. You can do it, right?
 \tg[Preta]¿¡Ya la vash a divorciar!? Shi esh que el amor nunca fue lo tuyo...
-\tg[Preta]Are you going to divorce her already!? Shi esh love was never your thing...
+\tg[Preta]Are yu already going to divorce her!? Te love was never your thing...
 \tg[Anthony]Tú no eres quién para decirme eso. Responde a la pregunta.
-\tg[Anthony]You are not the one to tell me that. Answer the question.
+\tg[Anthony]You shouldn't be the one telling me that. Answer the question.
 \tg[Preta]Puesh no shé... Esh que el barco ya no lo tengo, ashí que...
-\tg[Preta]Well I don't know... I don't have the boat anymore, so...
+\tg[Preta]Well I don know... I don have the boat anymore, so...
 \tg[Anthony]Ah, bueno. Entonces nada, si ya no lo tienes...
-\tg[Anthony]Ah, well. Then nothing, if you don't have it anymore...
+\tg[Anthony]Ah, well. Never mind, if you don't have it anymore...
 \tg[Anthony](...)\|(...)\|(...)
 \tg[Anthony](...)\|(...)\|(...)
 \tg[Anthony]¿¡CÓMO QUE YA NO LO TIENES!?
-\tg[Anthony]HOW DON'T YOU HAVE IT ALREADY!?
+\tg[Anthony]WHAT DO YOU MEAN YOU DON'T HAVE IT!?
 \tg[Preta]¡T-tony! ¡No te enfadesh!
-\tg[Preta]T-tony! Don't be angry!
+\tg[Preta]T-tony! Don be angry!
 \tg[Preta]Andaba jushtita de dinero y no parecía que lo quishieshes de vuelta... ¡Inclusho dijishte que no volveríash a navegar másh!
-\tg[Preta]I was short of money and it didn't seem like you wanted it back... I even told you that I wouldn't sail again!
+\tg[Preta]I was short o money and it didn't seem like yu wanted it back... Yu even told me that yu wouldn't sail again!
 \tg[Preta]Lo empeñé en el puerto a unosh marinerosh... ¡Hic!
-\tg[Preta]I pawned it in the port to some sh sailorsh... Hic!
+\tg[Preta]I pawned it in the harbor to some sailorsh... Hic!
 \tg[Anthony]¿¡Que hiciste QUÉ!?
 \tg[Anthony]You did WHAT!?
 \tg[Anthony]Te confié una sola cosa en todos estos años... ¡Una puñetera cosa!
-\tg[Anthony]I trusted you with only one thing in all these years... One damn thing!
+\tg[Anthony]I entrusted you with only one thing in all these years... One damn thing!
 \tg[Anthony]¿¡Cómo de irresponsable puedes llegar a ser!?
 \tg[Anthony]How irresponsible can you be!?
 \tg[Lucius]Mr. Anthony, ¿qué significa "empeñar"...?
@@ -1744,35 +1734,35 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]Y tú...
 \tg[Anthony]And you...
 \tg[Preta]Ugh... Te lo pagaré de vuelta con intereshesh...
-\tg[Preta]Ugh... I'll pay you back with interesteshesh...
+\tg[Preta]Ugh... I'll pay yu back with interest...
 \tg[Anthony]¿Crees que el dinero lo soluciona todo? ¡Ese barco no tenía precio para mí!
 \tg[Anthony]Do you think money solves everything? That boat was priceless to me!
 \tg[Phione](...)
 \tg[Phione](...)
 \tg[Anthony]No voy a ir de bueno contigo esta vez. ¡Ya he tenido suficiente!
-\tg[Anthony]I'm not going to be nice to you this time. I've had enough!
+\tg[Anthony]I'm not going to be nice with you this time. I've had enough!
 \tg[Anthony]¡Espero que estés preparada para asumir las consecuencias!
-\tg[Anthony]I hope you are prepared to accept the consequences!
+\tg[Anthony]I hope you are prepared to asume the consequences!
 \tg[Preta]¿¡Tony!? ¿¡A dónde vash!?
-\tg[Preta]Tony!? Where are you going!?
+\tg[Preta]Tony!? Where are yu going!?
 \tg[Anthony]¡A tomar el aire!
-\tg[Anthony]Let's get some air!
+\tg[Anthony]To get some air!
 \tg[Preta]Tony...
 \tg[Preta]Tony...
 \tg[Anthony](Todo sigue tal y como lo recordaba...)
 \tg[Anthony](Everything is just as I remembered...)
 \tg[Mesero]¡Anda, pero si es Anthony! No podías aguantar mucho más la tentación del alcohol, ¿eh? ¡Ja, ja, ja!
-\tg[Waiter]Come on, but it's Anthony! You couldn't stand the temptation of alcohol much longer, huh? Ha, ha, ha!
+\tg[Waiter]I say, it's Anthony! You couldn't stand the temptation of alcohol much longer, huh? Ha, ha, ha!
 \tg[Anthony]Je. Lo dejé hace tiempo y lo sabes. ¿Está Preta por aquí?
-\tg[Anthony]Heh. I left it a long time ago and you know it. Is Preta around?
+\tg[Anthony]Heh. I quit it a long time ago and you know it. Is Preta around?
 \tg[Mesero]¿Y dónde iba a estar si no? La tienes en la barra, como de costumbre.
 \tg[Waiter]And where would she be otherwise? You have her at the bar, as usual.
 \tg[Anthony]Estupendo, gracias.
 \tg[Anthony]Great, thanks.
 \tg[Comerciante]¿Sabía que los Pokémon pueden tener más de un color? De hecho, ¡pueden tener muchos tonos distintos!
-\tg[Merchant]Did you know that Pokémon can have more than one color? In fact, they can have many different shades!
+\tg[Merchant]Did you know that Pokémon can have more than one color? In fact, they can have many different tones!
 \tg[Comerciante]Se les conoce como "variocolor", ¡y yo sé el secreto para transformar Pokémon comunes en ellos!
-\tg[Merchant]They are known as Shiny, and I know the secret to transforming common Pokémon into them!
+\tg[Merchant]They are known as "Shiny", and I know the secret to transform common Pokémon into them!
 \tg[Comerciante]Si tiene 250 Monedas, convertiré cualquiera de sus Pokémon en variocolor. ¿Qué me dice?
 \tg[Merchant]If you have 250 Coins, I will turn any of your Pokémon into Shiny. What do you say?
 \tg[Anthony]Mmm...
@@ -1786,7 +1776,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]Muy sospechoso y caro, lo siento.
 \tg[Anthony]Very suspicious and expensive, sorry.
 \tg[Anthony](No tenemos permiso para subir.)
-\tg[Anthony](We do not have permission to upload.)
+\tg[Anthony](We do not have permission to go above.)
 \tg[Lucius]¿Qué hay más arriba, Mr. Anthony?
 \tg[Lucius]What's above, Mr. Anthony?
 \tg[Anthony]Los dormitorios. Muchos comerciantes necesitaban estancia durante días para negociar y la taberna decidió que sería una buena idea actuar también como posada.
@@ -1794,25 +1784,25 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Los humanos tenéis camas cómodas y mullidas. Creo que pasaré por su casa a menudo para dormir en una de ellas.
 \tg[Lucius]You humans have comfortable, soft beds. I think I'll stop by your house often to sleep in one of them.
 \tg[Anthony]Haz el favor de no agenciarte mi mobiliario así porque sí.
-\tg[Anthony] Please don't get my furniture just for the sake of it.
+\tg[Anthony] Please don't get my furniture by the face.
 \tg[Mesera]¿Qué os pongo? Uy, un momento... ¿Tu amiga es mayor de edad?
-\tg[Waitress]What can I give you? Oh, wait... Is your friend of legal age?
+\tg[Waitress]What can I give you? Oh, wait... Is your friend an adult?
 \tg[Anthony]¿Quién, Lucius?
 \tg[Anthony]Who, Lucius?
 \tg[Anthony]¿Qué edad tienes?
 \tg[Anthony]How old are you?
 \tg[Lucius]Mil cuatrocientos sesenta y...
-\tg[Lucius]One thousand four hundred and sixty and...
+\tg[Lucius]One thousand four hundred sixty...
 \tg[Anthony]Veinte años, dice. Póngale lo más fuerte que tenga, a ver qué pasa.
-\tg[Anthony]Twenty years, he says. Hit it as hard as you can, see what happens.
+\tg[Anthony]Twenty years, says. Hit it as hard as you can, see what happens.
 \tg[Lucius]Lo lamento, no tolero muy bien el alcohol...
-\tg[Lucius]I'm sorry, I don't tolerate alcohol very well...
+\tg[Lucius]I'm sorry, I don't handle alcohol very well...
 \tg[Misifús](Mi Portador no para de cambiarme el nombre... ¡No sé por cuántos motes he pasado ya! ¡Que pare!)
-\tg[Misifús](My Bearer keeps changing my name... I don't know how many nicknames I've been through already! Stop it!)
+\tg[Missis](My Carrier keeps changing my name... I don't know how many nicknames I've been through already! Stop it!)
 Comprar algo
 Buy something
 No quiero nada
-I want nothing
+I don't want anything
 Sí
 Yeah
 No
@@ -1827,15 +1817,15 @@ No
 \tg[Lucius]Ugh... Aunque yo seré el único que deba entrar a trabajar...
 \tg[Lucius]Ugh... Although I'll be the only one who has to go to work...
 \tg[Anthony]Yo te echaré un cable.
-\tg[Anthony]I'll help you out.
+\tg[Anthony]I'll lend you a hand.
 \tg[Lucius]¿Un... cable? Con todo el respeto, ¿de qué me servirá eso?
-\tg[Lucius]A... cable? With all due respect, what good will that do me?
+\tg[Lucius]A... hand? With all my respect, how would that help me?
 \tg[Anthony]No, hombre. Significa que te voy a ayudar.
 \tg[Anthony]No, man. It means I'm going to help you.
 \tg[Lucius]O-oh...
 \tg[Lucius]O-oh...
 \tg[Lucius]¡M-muy amable! ¡Eso facilitará las cosas!
-\tg[Lucius]T-very kind! That will make things easier!
+\tg[Lucius]V-very kind! That will make things easier!
 \tg[Lucius]Y, esto... Lamento lo que dije ayer, señora. No era mi intención herirla.
 \tg[Lucius]And, this... I'm sorry for what I said yesterday, ma'am. I didn't mean to hurt you.
 \tg[Anciana]¡Tranquilo, perdonado quedas! Aunque creo que la más afectada fue vuestra pequeña amiguita...
@@ -1859,19 +1849,19 @@ No
 \tg[Lucius]Tch. Tercera...
 \tg[Lucius]Tch. Third...
 \tg[Moira]Anda, pero si estáis con la Abu. Espero que no la hayáis molestado mucho, ¿eh?
-\tg[Moira]Come on, but you are with Abu. I hope you haven't bothered her too much, eh?
+\tg[Moira]Come on, but you are with Nanny. I hope you haven't bothered her too much, eh?
 \tg[Anthony]Ejem. Oye, Moira, al final he decidido que os acompañaré. Ayudaré a Lucius para acabar antes.
 \tg[Anthony]Ahem. Hey, Moira, I finally decided that I will accompany you. I will help Lucius to finish faster.
 \tg[Phione]Y Phione también irá porque no se fía de lo que pueda pasar.
-\tg[Phione]And Phione will also go because he doesn't trust what might happen.
+\tg[Phione]And Phione will also go because she doesn't trust what might happen.
 \tg[Moira]Siempre y cuando no esperéis un extra, por mí genial.
-\tg[Moira]As long as you don't expect extra, great for me.
+\tg[Moira]As long as you don't expect an extra, great for me.
 \tg[Moira]Por cierto, Abu, sé que es el aniversario de... Bueno, ya sabes.
-\tg[Moira]By the way, Abu, I know it's the anniversary of... Well, you know.
+\tg[Moira]By the way, Nanny, I know it's the anniversary of... Well, you know.
 \tg[Moira]Quería importar algunas flores bonitas, pero con todos los gastos...
 \tg[Moira]I wanted to import some pretty flowers, but with all the expenses...
 \tg[Anciana]Ay, ¿pero cuántas veces voy a tener que escuchar disculpas hoy? Ya es un detalle que te hayas acordado, Moira.
-\tg[Old Lady] Oh, but how many times am I going to have to hear apologies today? It's already a detail that you have remembered, Moira.
+\tg[Old Lady] Oh, how many times am I going to have to hear apologies today? It's already a detail that you have remembered, Moira.
 \tg[Anciana]Muchas gracias, de verdad. Sé que Flint y tú os llevábais muy bien con ella...
 \tg[Old Lady]Thank you very much, really. I know you and Flint got along very well with her...
 \tg[Anciana]Él vino a dejar un ramo ayer, también. Dijo que hoy estaría ocupado.
@@ -1879,17 +1869,17 @@ No
 \tg[Moira](...)\| Flint...
 \tg[Moira](...)\| Flint...
 \tg[Anciana]Es mucho más importante que en la aldea no pasen hambre. ¿Qué tal van los negocios últimamente?
-\tg[Old Woman]It is much more important that the village does not go hungry. How is business going lately?
+\tg[Old Woman]It is much more important that the people in the village doesn't starve. How is business going lately?
 \tg[Moira]¡M-muy bien! ¡Todo va genial, Abu!
-\tg[Moira]W-very good! Everything is going great, Abu!
+\tg[Moira]R-really well! Everything is going great, Nanny!
 \tg[Lucius]Eso es mentira. Justo ayer mencionó que...
-\tg[Lucius]That's a lie. Just yesterday he mentioned that...
+\tg[Lucius]That's a lie. Just yesterday she mentioned that...
 \tg[Lucius]¡AAAAAAAAAAH!
 \tg[Lucius]AAAAAAAAAAAH!
 \tg[Phione]¡Gaaah! ¡Otra vez!
 \tg[Phione]Gaaah! Again!
 \tg[Moira]En fin. Os esfpero en la enftrada, ¿vafle?
-\tg[Moira]Anyway. I'll wait for you at the entrance, okay?
+\tg[Moira]Anyway. I'llf wait for you at the enftrance, okay?
 \tg[Anciana]¡Ah, sí! Saludad también de mi parte a Flint, que últimamente le veo mala cara.
 \tg[Old Lady] Ah, yes! Also say hello to Flint for me, he's looking bad lately.
 \tg[Anciana]Más de la usual, quiero decir...
@@ -1897,15 +1887,23 @@ No
 \tg[Moira]¿Ein? Pero hoy él no debería estar en la mina. Es el único día de vacaciones que tiene en todo el año...
 \tg[Moira] Ein? But today he shouldn't be in the mine. It's the only vacation day he has all year...
 \tg[Anciana]¿Ah, sí? Qué raro, juraría que esta mañana Rockruff ha salido a saludarle...
-\tg[Old Lady] Oh, yes? How strange, I could swear that this morning Rockruff came out to greet you...
+\tg[Old Lady] Oh, yes? How strange, I could swear that this morning Rockruff came out to greet him...
 \tg[Moira]Bueno, ¡cuantos más, mejor! ¡Pero a él no le cobraré extra, tampoco!
-\tg[Moira]Well, the more the merrier! But I won't charge him extra, either!
+\tg[Moira]Well, the more the better! But I won't charge him extra, either!
 \tg[Moira]Lo dicho, ¡hablad conmigo cuando estéis listos para trabajar!
 \tg[Moira]As I said, talk to me when you're ready to work!
 \tg[Anthony](La verdad es que el pobre no lo está pasando precisamente bien últimamente...)
 \tg[Anthony](The truth is that the poor thing is not exactly having a good time lately...)
 \tg[Flint]Anthony, hola...
 \tg[Flint]Anthony, hello...
+
+
+
+REVISADO DE AQUÍ PARA ARRIBA.
+
+
+
+
 \tg[Flint]¿S-sabes qué? Estoy tratando de convencer a los Pokémon que importé para que ayuden en la mina, y parece que les agrada el ambiente del interior...
 \tg[Flint]Y-you know what? I'm trying to convince the Pokémon I imported to help in the mine, and they seem to like the environment inside...
 \tg[Anthony]Eso es genial. También creo que serías un buen Portador.
