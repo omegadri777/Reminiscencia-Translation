@@ -1893,23 +1893,15 @@ No
 \tg[Moira]Lo dicho, ¡hablad conmigo cuando estéis listos para trabajar!
 \tg[Moira]As I said, talk to me when you're ready to work!
 \tg[Anthony](La verdad es que el pobre no lo está pasando precisamente bien últimamente...)
-\tg[Anthony](The truth is that the poor thing is not exactly having a good time lately...)
+\tg[Anthony](The truth is that the poor guy is not exactly having a good time lately...)
 \tg[Flint]Anthony, hola...
 \tg[Flint]Anthony, hello...
-
-
-
-REVISADO DE AQUÍ PARA ARRIBA.
-
-
-
-
 \tg[Flint]¿S-sabes qué? Estoy tratando de convencer a los Pokémon que importé para que ayuden en la mina, y parece que les agrada el ambiente del interior...
 \tg[Flint]Y-you know what? I'm trying to convince the Pokémon I imported to help in the mine, and they seem to like the environment inside...
 \tg[Anthony]Eso es genial. También creo que serías un buen Portador.
-\tg[Anthony]That's great. I also think you'd make a good Bearer.
+\tg[Anthony]That's great. I also think you'd make a good Carrier.
 \tg[Flint]¿T-tú crees? No sé yo...
-\tg[Flint]Y-you think? I don't know...
+\tg[Flint]Y-you think so? I don't know...
 \tg[Anthony]Para ser tu primer combate, te defendiste muy bien. Diría que tu principal punto débil es la falta de concentración.
 \tg[Anthony]For it being your first fight, you defended yourself very well. I would say that your main weak point is lack of concentration.
 \tg[Flint]U-uy, qué piedra más bonita he encontrado por aquí. Esta para el bolsillo, je, je, je.
@@ -1921,35 +1913,35 @@ REVISADO DE AQUÍ PARA ARRIBA.
 \tg[Anthony]¡Lucius, cuidado!
 \tg[Anthony]Lucius, be careful!
 \tg[Flint]N-no puede ser. ¿¡La explosión ha hecho que el volcán entre en erupción!?
-\tg[Flint]N-it can't be. The explosion caused the volcano to erupt!?
+\tg[Flint]N-no it can't be. The explosion caused the volcano to erupt!?
 \tg[Lucius]Por supuesto que no. Si fuera tan sencillo despertar un volc-...
-\tg[Lucius]Of course not. If it were that easy to wake up a volcano-...
+\tg[Lucius]Of course not. If it was that easy to wake up a volca-...
 \tg[Moira]¡Qué más da la razón! ¡La gente corre peligro!
-\tg[Moira]Who cares what's right! People are in danger!
+\tg[Moira]Who cares why happened! People are in danger!
 \tg[Moira]¡Debo evitarlo como sea!
-\tg[Moira]I must avoid him at all costs!
+\tg[Moira]I must avoid it at all costs!
 \tg[Flint]¿¡Moira!? ¿Adónde vas?
 \tg[Flint]Moira!? Where are you going?
 \tg[Anthony]Lucius, tú te leíste ese dichoso libro. ¿Cómo hacemos que pare?
 \tg[Anthony]Lucius, you read that damn book. How do we make it stop?
 \tg[Lucius]Está de <i>brasa</i>, ¿no? No hay manera alguna de detener algo así.
-\tg[Lucius]It's hot, isn't it? There's no way to stop something like that.
+\tg[Lucius]It's a jonk, isn't it? There's no way to stop something like that.
 \tg[Lucius]Lo único viable sería tratar de evitar explosiones, pero eso requeriría absorber una obstentosa cantidad de energía calorífica del volcán.
 \tg[Lucius]The only viable thing would be to try to avoid explosions, but that would require absorbing a huge amount of heat energy from the volcano.
 \tg[Lucius]Incluso si un Pokémon es capaz de ello, probablemente debería dar su vida para conseguirlo.
-\tg[Lucius]Even if a Pokémon is capable of it, it should probably give its life to get it.
+\tg[Lucius]Even if a Pokémon is capable of it, it should probably give its life to achieve it.
 \tg[Flint]¡Oh, no! ¡Seguro que Moira va a...!
 \tg[Flint]Oh no! I'm sure Moira is going to...!
 \tg[Flint]P-por mi culpa...
-\tg[Flint]P-because of me...
+\tg[Flint]I-It's my fault...
 \tg[Phione]¡No es momento de sentirse culpable! ¿¡No hay nada que podamos hacer!?
-\tg[Phione]This is no time to feel guilty! Isn't there anything we can do!?
+\tg[Phione]This is no time of feeling guilty! Isn't there anything we can do!?
 \tg[Lucius]¿Para salvar a la Tercera en el supuesto caso de que haya ido a apaciguar la erupción? Mmm...
-\tg[Lucius]To save the Third in the event that she went to appease the eruption? Hmm...
+\tg[Lucius]To save the Third in the case that she went to stop the eruption? Hmm...
 \tg[Lucius]Si la obligamos a liberar energía tan pronto como consiga absorberla, es posible que tengamos una oportunidad.
 \tg[Lucius]If we force her to release energy as soon as she manages to absorb it, we might have a chance.
 \tg[Anthony]Es decir, ¿que nos enfrentemos a ella?
-\tg[Anthony]I mean, let's face her?
+\tg[Anthony]You mean, face her?
 \tg[Lucius]Correcto.
 \tg[Lucius]Correct.
 \tg[Flint]E-esto... Anthony...
@@ -1975,7 +1967,7 @@ REVISADO DE AQUÍ PARA ARRIBA.
 \tg[Flint]¡Y tú, pequeñajo, vas a venir a ayudarme! ¡No te librarás de esta!
 \tg[Flint]And you, little guy, are going to come help me! You won't get away from this!
 \tg[Anthony]¿Cómo se supone que llegamos hasta Moira, a todo esto?
-\tg[Anthony]How are we supposed to get to Moira, with all this?
+\tg[Anthony]By the way, how are we supposed to get to Moira, with all this?
 \tg[Flint]Ah, ¿recuerdas \c[2]la cueva en la que la conociste por primera vez</c>?
 \tg[Flint]Ah, do you remember \c[2]the cave where you first met her</c>?
 \tg[Flint]Solo tienes que continuar hacia el \c[2]norte</c> desde allí y llegarás a las zonas más profundas del volcán.
@@ -1987,7 +1979,14 @@ REVISADO DE AQUÍ PARA ARRIBA.
 \tg[Lucius]Pues vigila también mi pelo. No quiero que se incendie otra vez... ¡Ya sería la tercera!
 \tg[Lucius]Well, keep an eye on my hair too. I don't want it to catch on fire again... It would be the third time!
 \tg[Anthony]Ah, esa debe ser la mina.
-\tg[Anthony]Ah, that must be mine.
+\tg[Anthony]Ah, that must be the mine.
+
+
+
+Revisado hasta aquí.
+
+
+
 \tg[Anthony]Bueno, ahora busquemos algún sitio donde dormir hasta mañana.
 \tg[Anthony]Well, now let's find somewhere to sleep until tomorrow.
 \tg[Anthony]Asumía que tendríamos que acampar fuera, pero hay una casa justo al lado. Preguntemos si podemos pasar la noche dentro.
