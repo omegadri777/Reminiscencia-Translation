@@ -479,8 +479,8 @@ And they rested until the next day.
 \tg[Anthony]It won't be long. I'll make a batch and we'll leave.
 \tg[Preta]¡Yupi! ¡Tony hará sus famosos cruasanes!
 \tg[Preta]Yippee! Tony will make his famous croissants!
-\tg[Lucius]"<i>Croissants</i>".
-\tg[Lucius]"<i>Croissants</i>".
+\tg[Lucius]"<i>Croissant</i>".
+\tg[Lucius]"<i>Quaso</i>".
 \tg[Phione]¡Gah! ¡Han salido bien!
 \tg[Phione]Gah! They turned out well!
 \tg[Anthony]¿Veis? Solo tengo problemas al recolectar los ingredientes...
@@ -4467,7 +4467,7 @@ No
 \tg[Lucius]¡Mucho mejor! ¡Ah, aire fresco!
 \tg[Lucius]Much better! Ah, fresh air!
 \tg[Lucius]Pero ahora tengo hambre. ¿Le quedan Bayas? ¿Aún guarda algunos <i>croissants</i>?
-\tg[Lucius]But I'm hungry now. Do you have any Berries left? Do you still have some <i>croissants</i>?
+\tg[Lucius]But I'm hungry now. Do you have any Berries left? Do you still have some <i>quaso</i>?
 \tg[Anthony]Prioridades, Lucius, prioridades.
 \tg[Anthony]Priorities, Lucius, priorities.
 \tg[Anthony]Tenemos que ir al juicio y conseguir que declaren inocente a Phione como nos dijo Oliver.
@@ -4523,7 +4523,7 @@ No
 \tg[Anthony]¿Y cuando desaparecí yo, qué?
 \tg[Anthony]And when I disappeared, what?
 \tg[Lucius]Esto... ¡Se llevó el <i>croissant</i> consigo!
-\tg[Lucius]This... He took the <i>croissant</i> with him!
+\tg[Lucius]This... He took the <i>quaso</i> with him!
 \tg[Anthony]Esa sí que no cuela.
 \tg[Anthony]That one doesn't work.
 \tg[Anthony]No pasa nada por admitirlo. Estabas preocupado por nosotros.
@@ -4914,7 +4914,7 @@ No
 \tg[Lucius]Vale...
 \tg[Lucius]Okay...
 \tg[Lucius]Tengo hambre. Deme el <i>croissant</i>.
-\tg[Lucius]I'm hungry. Give me the <i>croissant</i>.
+\tg[Lucius]I'm hungry. Give me the <i>quaso</i>.
 \tg[Anthony]Esto... En cuanto al cruasán...
 \tg[Anthony]This... As for the croissant...
 \tg[Ártica]Me lo comí yo.
@@ -4932,7 +4932,7 @@ No
 \tg[Anthony](Apenas ha reaccionado a lo del cruasán. Debe ser grave.)
 \tg[Anthony](He's barely reacted to the croissant thing. It must be serious.)
 \tg[Anthony](Un momento. El cruasán...)
-\tg[Anthony](Wait a minute. The croissant...)
+\tg[Anthony](Wait a minute. The quaso...)
 \tg[Ártica]La Phione deberá quedarse conmigo. Espero que te vaya bien, Anthony.
 \tg[Arctic]The Phione will have to stay with me. I hope it goes well for you, Anthony.
 \tg[Anthony]"Prohibida la importación de cualquier tipo de producto ajeno a la isla, así como su consumo."
@@ -7273,7 +7273,7 @@ You will also recover 5% of your HP after each fight.
 \tg[Anthony]Bueno, ¿alguien tiene hambre? ¿Queréis un cruasán?
 \tg[Anthony]Bueno, ¿alguien tiene hambre? ¿Queréis un cruasán? 
 \tg[Lucius]¡<fn=Work In Progress>Croissant</fn>!
-\tg[Lucius]<fn=WorkInProgress>Croissant</fn>!
+\tg[Lucius]<fn=WorkInProgress>Quaso</fn>!
 \tg[Anthony]Para, por favor.
 \tg[Anthony]Stop, please.
 [Map366]
