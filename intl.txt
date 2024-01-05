@@ -1980,13 +1980,6 @@ No
 \tg[Lucius]Well, keep an eye on my hair too. I don't want it to catch on fire again... It would be the third time!
 \tg[Anthony]Ah, esa debe ser la mina.
 \tg[Anthony]Ah, that must be the mine.
-
-
-
-Revisado hasta aquí.
-
-
-
 \tg[Anthony]Bueno, ahora busquemos algún sitio donde dormir hasta mañana.
 \tg[Anthony]Well, now let's find somewhere to sleep until tomorrow.
 \tg[Anthony]Asumía que tendríamos que acampar fuera, pero hay una casa justo al lado. Preguntemos si podemos pasar la noche dentro.
@@ -1994,9 +1987,9 @@ Revisado hasta aquí.
 \tg[Lucius]Me alegra oírlo. No me importa dormir al aire libre, aunque la ceniza puede resultar un tanto molesta.
 \tg[Lucius]I'm glad to hear it. I don't mind sleeping outside, although the ash can be a bit annoying.
 \tg[Anthony]Anda, un Rockruff.
-\tg[Anthony]Come on, a Rockruff.
+\tg[Anthony]Oh, a Rockruff.
 \tg[Lucius]Me está olisqueando... Espero que no suelte babas, señor Rockruff.
-\tg[Lucius]You're sniffing me... I hope you don't drool, Mr. Rockruff.
+\tg[Lucius]You're sniffing me... I hope you don't drop some slobber, Mr. Rockruff.
 \tg[Anciana]Ay... ¿Qué pasa, pequeño? ¿Por qué te alborotas tanto?
 \tg[Old Lady] Oh... What's wrong, little one? Why are you so upset?
 \tg[Anthony]Discúlpenos por hacer ruido tan tarde. Estamos aquí porque Moira nos encargó un trabajo en la mina mañana y queríamos llegar con tiempo para descansar antes.
@@ -2006,21 +1999,21 @@ Revisado hasta aquí.
 \tg[Anciana]No os preocupéis, podéis dormir esta noche en mi casa.
 \tg[Old Lady] Don't worry, you can sleep tonight at my house.
 \tg[Lucius]¡AGH! ¿¡Qué le dije sobre las babas!?
-\tg[Lucius]AGH! What did I tell you about the slime!?
+\tg[Lucius]AGH! What did I tell you about the slobber!?
 \tg[Anciana]Je, je, je. Parece que, además, a Rockruff le ha caído bien tu amiguito.
 \tg[Old Lady]Heh, heh, heh. It seems that Rockruff has also liked your little friend.
 \tg[Anciana]Vamos, entrad. No os quedéis bajo la ceniza.
-\tg[Old Woman]Come on, come in. Don't stay under the ashes.
+\tg[Old Woman]Please come in. Don't stay under the ashes.
 \tg[Anthony]Muchas gracias. Es usted muy amable.
 \tg[Anthony]Thank you very much. You are very kind.
 \tg[Anciana]No hay de qué. Cualquier compañía que se le pueda hacer a esta anciana es bienvenida.
 \tg[Old Lady] You're welcome. Any company you can give this old lady is welcome.
 \tg[Anthony](No creo que Lucius haya vuelto al Risco...)
-\tg[Anthony](I don't think Lucius has returned to the Crag...)
+\tg[Anthony](I don't think Lucius has returned to the Cliff...)
 \tg[Anthony](¿Estamos listos para ir a la mina...?)
 \tg[Anthony](Are we ready to go to the mine...?)
 \tg[Moira]¿Ya lo tefnéis tofdo?
-\tg[Moira]Do you have it all yet?
+\tg[Moira]Do you hafe it all yet?
 \tg[Lucius]¿N-no vamos a llevar ningún tipo de luz ahí dentro?
 \tg[Lucius]A-aren't we going to bring any kind of light in there?
 \tg[Moira]¡No hace falta! La Obisidianita brilla mucho, ¡y mi fuego será más que suficiente!
@@ -2028,13 +2021,13 @@ Revisado hasta aquí.
 \tg[Lucius]Vale... Una preocupación menos.
 \tg[Lucius]Okay... One less worry.
 \tg[Moira]¡Pues pongámonos en marcha! ¡Andad con cuidado, que últimamente están apareciendo algunos Pokémon salvajes de más!
-\tg[Moira]Then let's get going! Be careful, there are some extra wild Pokémon appearing lately!
+\tg[Moira]Then let's get going! Be careful, there are more wild Pokémon appearing lately!
 \tg[Scraggy](Al humano con cara moribunda parecen gustarle las piedras raras. ¡Romperé algunas a cabezazos a ver si son brillantes por dentro!)
 \tg[Scraggy](The human with the dying face seems to like strange stones. I'll smash some with my head to see if they're shiny on the inside!)
 \tg[Phione](Este Pokémon es un peligro.)
 \tg[Phione](This Pokémon is dangerous.)
 \tg[Anthony](¿Se habrá ido solo a la mina? Debería investigar antes los alrededores, por si acaso.)
-\tg[Anthony](Could he have gone to the mine alone? He should investigate the surroundings first, just in case.)
+\tg[Anthony](Could he have gone to the mine alone? I should investigate the surroundings first, just in case.)
 Sí
 Yeah
 No
@@ -2067,15 +2060,15 @@ No
 \tg[Lucius]¡Precisamente! En ese caso, ¿no sería lógico querer olvidarlo para sentirse mejor?
 \tg[Lucius]Precisely! In that case, wouldn't it be logical to want to forget it to feel better?
 \tg[Anthony]Tal vez... Estoy seguro de que, si fuera tan fácil, muchos harían eso.
-\tg[Anthony]Maybe... I'm sure that, if it were that easy, many would do that.
+\tg[Anthony]Maybe... I'm sure that, if it was that easy, many would do that.
 \tg[Anthony]Pero, ¿a ti te gustaría que te olvidaran si fallecieras?
 \tg[Anthony]But, would you like to be forgotten if you died?
 \tg[Anthony]A mí desde luego no. Me haría sentir que no he significado nada en la vida de nadie.
 \tg[Anthony]Certainly not to me. It would make me feel like I haven't meant anything in anyone's life.
 \tg[Lucius]¿Y qué importa? Yo ya no existiría.
-\tg[Lucius]And what does it matter? I would no longer exist.
+\tg[Lucius]And what does it matter? You would no longer exist.
 \tg[Anthony]La vida es corta, y a veces no la apreciamos hasta que la perdemos. Pero lo que realmente importa son los recuerdos que creamos, que perduran más allá de nuestra existencia. Es por eso que importa.
-\tg[Anthony]Life is short, and sometimes we don't appreciate it until we lose it. But what really matters are the memories we create, which last beyond our existence. That's why it matters.
+\tg[Anthony]Life is short, and sometimes we don't appreciate it until we lose it. But what really matters are the memories we create, which will last beyond our existence. That's why it matters.
 \tg[Anthony]Porque todos merecemos ser recordados, amados y valorados, incluso después de que nos hayamos ido.
 \tg[Anthony]Because we all deserve to be remembered, loved and valued, even after we are gone.
 \tg[Lucius]Los recuerdos importan... ¿Aunque sean dolorosos?
@@ -2085,19 +2078,19 @@ No
 \tg[Anthony]No podemos olvidar, pero podemos aprender a vivir en los recuerdos y a encontrar consuelo en ellos.
 \tg[Anthony]We cannot forget, but we can learn to live in memories and find comfort in them.
 \tg[Anthony]Cuando le dijiste aquello a la anciana, estabas devalorando la vida de su hija y menospreciando la importancia que tuvo para ella cuando aún vivía.
-\tg[Anthony]When you said that to the old woman, you were devaluing her daughter's life and belittling the importance it had for her when she was still alive.
+\tg[Anthony]When you said that to the old woman, you were devaluing her daughter's life and despising the importance it had for her when she was still alive.
 \tg[Lucius]Comprendo…
 \tg[Lucius]I understand…
 \tg[Lucius]Yo no soy humano, Mr. Anthony. Pero quiero aprender.
 \tg[Lucius]I am not human, Mr. Anthony. But I want to learn.
 \tg[Lucius]Como Guardián del Mar, debo velar tanto por humanos como por Pokémon.
-\tg[Lucius]As Guardian of the Sea, I must watch over both humans and Pokémon.
+\tg[Lucius]As Guardian of the Sea, I must look after both humans and Pokémon.
 \tg[Lucius]Y, sin embargo, mi ignorancia hizo daño a alguien hoy. Incluso a usted...
 \tg[Lucius]And yet, my ignorance hurt someone today. Even you...
 \tg[Anthony]¿A mí? Pero si fui yo quien...
 \tg[Anthony]Me? But it was me who...
 \tg[Lucius]No. De no haberlo hecho, no habría reaccionado de esa manera.
-\tg[Lucius]No. If I hadn't, I wouldn't have reacted that way.
+\tg[Lucius]No. If I hadn't, you wouldn't have reacted that way.
 \tg[Anthony]Bueno, no estoy seguro de quién hizo más daño a quién al final, pero aun así… No era razón para excusar lo que yo hice.
 \tg[Anthony]Well, I'm not sure who hurt who more in the end, but still... It was no reason to excuse what I did.
 \tg[Anthony]Así que una vez más, disculpa.
@@ -2109,7 +2102,7 @@ No
 \tg[Anthony]Pero ahora es muy tarde y seguro que estás cansado, así que vuelve adentro a dormir.
 \tg[Anthony]But now it's really late and you're probably tired, so go back inside to sleep.
 \tg[Lucius]¿¡Me lo permitirían!?
-\tg[Lucius]Would you allow me!?
+\tg[Lucius]Would they allow me!?
 \tg[Anthony]Claro. Además, Phione no puede pegar ojo sin ti y no para de dar vueltas por la habitación.
 \tg[Anthony]Sure. Besides, Phione can't sleep without you and she doesn't stop pacing around the room.
 \tg[Anthony]Así que por tu bien y por el de mis horas de sueño, vuelve a la casa.
@@ -2123,7 +2116,7 @@ No
 \tg[Lucius]No... No es nada.
 \tg[Lucius]No... It's nothing.
 \tg[Anthony]Venga, volvamos.
-\tg[Anthony]Come on, let's go back.
+\tg[Anthony]Come on, let's return.
 \tg[Lucius]¡Está bien!
 \tg[Lucius]Okay!
 \tg[Lucius]Los recuerdos\| importan.
@@ -2173,7 +2166,7 @@ No
 \tg[Anthony](Nada de entrar en casas ajenas...)
 \tg[Anthony](No entering other people's houses...)
 \tg[Flint]P-por aquí se va al volcán. ¡Ánimo, Anthony!
-\tg[Flint]P-this is where you go to the volcano. Cheer up, Anthony!
+\tg[Flint]T-there is the volcano. Cheer up, Anthony!
 \tg[Lucius]¿A mí no me dirá nada?
 \tg[Lucius]Won't you say anything to me?
 \tg[Phione]¿¡Y a Phione!?
@@ -2183,15 +2176,15 @@ No
 \tg[Anthony]Veo que tenéis muchas piedras por aquí. ¿Las vendéis todas?
 \tg[Anthony]I see you have a lot of stones around here. Do you sell them all?
 \tg[Aldeano]Lo intentamos, sí. Son buen material de construcción, pero como sabrá es algo que puede encontrarse en cualquier lado.
-\tg[Villager]We tried, yes. They are good construction material, but as you know it is something that can be found anywhere.
+\tg[Villager]We try, yes. They are good construction material, but as you know it is something that can be found anywhere.
 \tg[Lucius]En otras palabras, su venta no va muy bien.
 \tg[Lucius]In other words, your sale is not going very well.
 \tg[Aldeano]Correcto. Estamos buscando alternativas, así que si tenéis alguna idea, será bienvenida.
-\tg[Villager]Correct. We are looking for alternatives, so if you have any ideas, they would be welcome.
+\tg[Villager]Correct. We are looking for alternatives, so if you have any ideas, it would be welcome.
 \tg[Lucius]¿Por qué no las usan como arma antiaérea contra los Pokémon pájaro?
 \tg[Lucius]Why don't you use them as an anti-aircraft weapon against bird Pokémon?
 \tg[Aldeano]¿P-perdona? ¿Qué ganaríamos con eso?
-\tg[Villager]S-excuse me? What would we gain from that?
+\tg[Villager]E-excuse me? What would we gain from that?
 \tg[Lucius]Dominancia.
 \tg[Lucius]Dominance.
 \tg[Anthony]No le haga caso.
@@ -2201,7 +2194,7 @@ No
 \tg[Phione]¡No mires a Phione!
 \tg[Phione]Don't look at Phione!
 \tg[Aldeana]El otro día vi a Flint, el minero, echarle el ojo a una piedra que había en el camino.
-\tg[Villager]The other day I saw Flint, the miner, keep an eye on a stone that was on the road.
+\tg[Villager]The other day I saw Flint, the miner, he set his eyes on a stone that was on the road.
 \tg[Aldeana]Y Moira, que justamente estaba pasando por ahí, cogió la piedra antes que él... ¡Y se la comió!
 \tg[Villager]And Moira, who was just passing by, caught the stone before him... And ate it!
 \tg[Aldeana]Si hubieseis visto la cara que se le quedó al pobre Flint... ¡Ja, ja, ja!
@@ -2213,11 +2206,11 @@ No
 \tg[Anthony]Yo he viajado a varias regiones. Kalos y Galar son mis favoritas.
 \tg[Anthony]I have traveled to several regions. Kalos and Galar are my favorites.
 \tg[Lucius]Un servidor solo ha estado en Johto, y juraría que Phione nunca ha salido del archipiélago.
-\tg[Lucius]One server has only been to Johto, and I would swear that Phione has never left the archipelago.
+\tg[Lucius]One servant has only been to Johto, and I would swear that Phione has never left the archipelago.
 \tg[Phione]Fí.
 \tg[Phione]Fí.
 \tg[Aldeano]Y ahora la pregunta importante... ¿¡Cuál de ellas tiene la mejor comida!?
-\tg[Villager]And now the important question... Which of them has the best food!?
+\tg[Villager]And now the important question... Which one of them has the best food!?
 \tg[Anthony]Kalos, sin duda alguna.
 \tg[Anthony]Kalos, without a doubt.
 \tg[Lucius]No sabría responderle. Varía según la alimentación de los Pokémon...
@@ -2227,35 +2220,35 @@ No
 \tg[Lucius]Nada más allá de mezclar ingredientes, diría. Es por eso que a veces robamos comida...
 \tg[Lucius]Nothing beyond mixing ingredients, I would say. That's why we sometimes steal food...
 \tg[Anthony](Se ha incluido en el "robamos".)
-\tg[Anthony](It has been included in the "we stole".)
+\tg[Anthony](He included himself in the "we stole".)
 \tg[Anthony](No parece que tengamos nada más que hacer en esta isla. Deberíamos \c[2]volver al barco</c> e ir a la siguiente cuando estemos listos.)
 \tg[Anthony](It doesn't look like we have anything else to do on this island. We should \c[2]get back on the ship</c> and go to the next one when we're ready.)
 \tg[Aldeana]Debí haber salido hoy con un paraguas... ¡La ceniza me está arruinando el pelo! ¡Ugh!
 \tg[Villager]I should have gone out today with an umbrella... The ash is ruining my hair! Ugh!
 \tg[Lucius]¿Y no tendrá uno de repuesto para mí? Me hallo en su misma situación...
-\tg[Lucius]And you don't have a spare one for me? I'm in the same situation...
+\tg[Lucius]Wouldn't you have a spare one for me? I'm in the same situation...
 \tg[Anthony]Si te sirve de consuelo, al ser albino no se te nota mucho.
 \tg[Anthony]If it's any consolation, being an albino doesn't show much.
 \tg[Lucius]Pues a usted parece que le estén saliendo canas.
 \tg[Lucius]Well, you look like you're getting gray hair.
 \tg[Anthony]Ejem. ¿No tendrá un tercer paraguas, señorita?
-\tg[Anthony]Ahem. Don't you have a third umbrella, miss?
+\tg[Anthony]Ahem. Wouldn't you have a third umbrella, miss?
 \tg[Aldeano]He visto a ese Pokémon azul antes...
 \tg[Villager]I've seen that blue Pokémon before...
 \tg[Phione]¿Fí?
 \tg[Phione]Fí?
 \tg[Aldeano]¡Oh, ya sé! ¡Es parecido a uno de esos con los que juega a veces mi hijo!
-\tg[Villager]Oh, I know! It's like one of those my son plays with sometimes!
+\tg[Villager]Oh, I know! It looks like one of those my son plays with sometimes!
 \tg[Aldeano]Toma unas Bayas, preciosa. Y bonito lazo, ¡me gusta mucho!
 \tg[Villager]Take some Berries, beautiful. And nice bow, I like it a lot!
 \tg[Phione]¡Je, je, je!
-\tg[Phione]Hee hee hee!
+\tg[Phione]Hee, hee, hee!
 \tg[Lucius](...)
 \tg[Lucius](...)
 \tg[Anthony]Lucius bonito, Lucius precioso, toma unas Bayas. Me gusta, eh... La pluma con la que escribes.
 \tg[Anthony]Pretty Lucius, pretty Lucius, have some Berries. I like, eh... The pen you write with.
 \tg[Lucius]¡Je, je, je!
-\tg[Lucius]Heh heh heh!
+\tg[Lucius]Heh, heh, heh!
 \tg[Anthony](Mira que es fácil tomarle el pelo.)
 \tg[Anthony](Look how easy it is to tease him.)
 \tg[Flint]H-hola, Anthony... No te molestaré mucho, solo quería darte las gracias por ayudar a Moira y darte el trozo de Obsidianita que prometí.
@@ -2273,11 +2266,11 @@ No
 \tg[Flint]A vosotros. S-si me necesitáis para cualquier cosa, estaré en la entrada de la mina para asegurarme de que ningún trabajador entra solo por su cuenta.
 \tg[Flint]To you. I-if you need me for anything, I will be at the entrance of the mine to make sure that no worker enters alone on his own.
 \tg[Viejo]¡Os reto a un pulso! ¡Vamos!
-\tg[Old Man] I challenge you to an arm wrestling match! Come on!
+\tg[Old Man] I challenge you to an arm wrestling! Come on!
 \tg[Lucius]¿Un pulso...? ¿Primigenio?
-\tg[Lucius]A pulse...? Primal?
+\tg[Lucius]A primal...? Pulse?
 \tg[Anthony]Es un juego. Parece que este señor quiere medir su fuerza contigo.
-\tg[Anthony]Es un juego. Parece que este señor quiere medir su fuerza contigo. 
+\tg[Anthony]It's a game. It looks like this man wants to test his strength with you. 
 \tg[Lucius]Oh, ¡entonces aguarde a que esté en mi Forma Pokémon!
 \tg[Lucius]Oh, then wait until I'm in my Pokémon Form!
 \tg[Anthony]Eso sería hacer trampas.
@@ -2295,7 +2288,7 @@ No
 \tg[Phione]¡Oooh! ¡Es la primera vez que Phione ve algo tan reluciente!
 \tg[Phione]Oooh! It's the first time Phione has seen something so shiny!
 \tg[Anthony]¿Que harías si esta riqueza fuese tuya?
-\tg[Anthony]What would you do if this wealth were yours?
+\tg[Anthony]What would you do if this wealth was yours?
 \tg[Phione]¡Phione la cambiaría por los accesorios más bonitos que pueda encontrar! ¿Y tú?
 \tg[Phione]Phione would trade it for the prettiest accessories she can find! How about you?
 \tg[Anthony]Mmm... Probablemente la gastaría en reformas para mi casa o el huerto.
@@ -2303,19 +2296,19 @@ No
 \tg[Anthony]Compraría muchos libros nuevos. Ah, e importaría semillas de flores y hortalizas extranjeras...
 \tg[Anthony]I would buy a lot of new books. Oh, and I would import foreign flower and vegetable seeds...
 \tg[Lucius]Ejem. Eso es lo que haríais, si en primer lugar fuese de vuestra propiedad, y si en segundo de oro se tratase.
-\tg[Lucius] Ahem. That's what you would do, if it were your property in the first place, and if it were gold in the second place.
+\tg[Lucius]Ahem. That's what you would do, if it was your property in the first place, and if it were gold in the second place.
 \tg[Lucius]Es pirita, un mineral de escaso valor bastante común en terrenos volcánicos. El oro de los tontos.
-\tg[Lucius]It is pyrite, a mineral of little value quite common in volcanic terrain. Fool's gold.
+\tg[Lucius]It is pyrite, a little value mineral quite common in volcanic terrain. Fool's gold.
 \tg[Anthony]Muy apropiado para el Guardián del Mar ser un aguafiestas.
 \tg[Anthony]Very fitting for the Guardian of the Sea to be a party pooper.
 \tg[Lucius]Considérelo un desquite por mantenerme al margen de la conversación.
-\tg[Lucius]Consider it payback for keeping me out of the conversation.
+\tg[Lucius]Consider it a payback for keeping me out of the conversation.
 \tg[Lucius]Ese no es el camino.
 \tg[Lucius]That is not the way.
 \tg[Anthony]¿Y tú qué sabes, listillo?
 \tg[Anthony]And what do you know, smartass?
 \tg[Lucius]El señor moribundo se fue hacia el norte, y este es... Bueno, el este.
-\tg[Lucius]The dying lord went north, and this is... Well, the east.
+\tg[Lucius]The dying man went north, and this is... Well, the east.
 \tg[Lucius]Además, está claro que el camino lleva a las afueras de la aldea.
 \tg[Lucius]Furthermore, it is clear that the path leads to the outskirts of the village.
 \tg[Anthony]Tch...
@@ -2329,7 +2322,7 @@ No
 \tg[Chimchar](¡Je, je! ¡El humano que os acompaña es pelirrojo, como yo! ¡Igual es familiar mío!)
 \tg[Chimchar](Heh heh! The human with you has red hair, like me! Maybe he's related to me!)
 \tg[Lucius]¿Recuerda ser familiar de algún Pokémon mono, Mr. Anthony?
-\tg[Lucius]Do you remember being familiar with any monkey Pokémon, Mr. Anthony?
+\tg[Lucius]Do you remember being relative of any monkey Pokémon, Mr. Anthony?
 \tg[Anthony]¿Pero qué dices?
 \tg[Anthony]But what are you saying?
 \tg[Anthony]Bueno, ya hemos llegado. ¿Dónde encontramos a la Guardiana de la isla?
@@ -2339,11 +2332,11 @@ No
 \tg[Lucius]Lo desconozco. Aquí la pesca es escasa y las cosechas, pobres.
 \tg[Lucius]I don't know. Here the fishing is scarce and the crops are poor.
 \tg[Lucius]Entienda que no visite frecuentemente este lugar y por ende no conozca demasiado a la Tercera.
-\tg[Lucius] Please understand that I do not visit this place frequently and therefore do not know the Third too well.
+\tg[Lucius]Please understand that I do not visit this place frequently and therefore do not know the Third too well.
 \tg[Phione]El Guardián del Mar deja desatendida la isla más necesitada, fí...
 \tg[Phione]The Guardian of the Sea leaves the most needy island unattended, fi...
 \tg[Lucius]Lo dices como si hubiera algo que hacer al respecto. ¿Con qué magia pretendes que haga aparecer Magikarp por los alrededores? Oh, y discúlpame por ser el Guardián del MAR y no saber cómo cultivar la TIERRA.
-\tg[Lucius]You say that as if there is something to be done about it. With what magic do you want me to make Magikarp appear around? Oh, and excuse me for being the Guardian of the SEA and not knowing how to farm the LAND.
+\tg[Lucius]You say that as if was something to be done about it. With what magic do you want me to make Magikarp appear around? Oh, and excuse me for being the Guardian of the SEA and not knowing how to farm the LAND.
 \tg[Phione]Gah... Seguro que hay algo...
 \tg[Phione]Gah... I'm sure there's something...
 \tg[Lucius]No, no lo hay. ¡Punto!
@@ -2359,7 +2352,7 @@ No
 \tg[Anthony]Disculpa las molestias, pareces ocupado.
 \tg[Anthony]Sorry for the inconvenience, you seem busy.
 \tg[Anthony]¿De casualidad no sabrás dónde podemos encontrar a...? Esto... ¿La "Tercera"?
-\tg[Anthony]You don't happen to know where we can find...? This... The "Third"?
+\tg[Anthony]Do you happen to know where we can find...? I mean... The "Third"?
 \tg[???]Aaagh...
 \tg[???]Aaagh...
 \tg[Lucius]Mmm... La Tercera también es capaz de alterar su Forma. ¿Es posible que se la conozca mejor por su nombre humano?
@@ -2387,13 +2380,13 @@ No
 \tg[Anthony]Y haz el favor de respetar mi espacio personal.
 \tg[Anthony]And please respect my personal space.
 \tg[Flint]T-tranquilo, \c[6]Flint</c>... No pasa nada, pronto acabará todo... Ja, ja, ja...
-\tg[Flint]T-calm down, \c[6]Flint</c>... It's okay, it'll all be over soon... Ha, ha, ha...
+\tg[Flint]C-calm down, \c[6]Flint</c>... It's okay, it'll all be over soon... Ha, ha, ha...
 \tg[Lucius]Esto... ¿Se encuentra bien?
 \tg[Lucius]This... Are you okay?
 \tg[Flint]Ah, disculpadme... Mi nombre es Flint... Ocupo un puesto de, eh... "Jefe" entre los mineros de Isla Pontos...
-\tg[Flint]Ah, excuse me... My name is Flint... I hold a position of, uh... "Boss" among the miners of Pontos Island...
+\tg[Flint]Ah, excuse me... My name is Flint... I hold a position of, uh... "Boss" among the miners of Pontus Island...
 \tg[Flint]Os puedo llevar hasta Moira, si queréis... Pero daos prisa, estoy esperando unos materiales y necesito vigilar el puerto...
-\tg[Flint]I can take you to Moira, if you want... But hurry, I'm waiting for some materials and I need to keep an eye on the port...
+\tg[Flint]I can take you to Moira, if you want... But hurry, I'm waiting for some materials and I need to keep an eye on the harbor...
 \tg[Anthony]No pienso correr tras de él.
 \tg[Anthony]I'm not going to run after him.
 \tg[Anthony]En fin. Al menos ha sido fácil dar con ella.
@@ -2401,15 +2394,15 @@ No
 \tg[Phione]Ese hombre decía cosas raras, fí... Y tenía un poco de mala cara.
 \tg[Phione]That man said strange things, fi... And he had a bit of a bad face.
 \tg[Lucius]¿Un poco, solamente?
-\tg[Lucius]A little, just?
+\tg[Lucius]Just a bit?
 \tg[Aldeana]¿Tenéis algún deseo que queráis cumplir? ¡A mí me gustaría poder probar un pastel algún día!
 \tg[Villager]Do you have any wishes you want to fulfill? I would like to be able to try a cake one day!
 \tg[Lucius]¿Por qué desearía algo tan simple?
-\tg[Lucius]Why would I want something so simple?
+\tg[Lucius]Why would you want something so simple?
 \tg[Anthony]Tal vez para ella no sea tan "simple", ¿sabes?
-\tg[Anthony]Maybe it's not so "simple" for her, you know?
+\tg[Anthony]Maybe it's not that "simple" for her, you know?
 \tg[Anthony]Venga, respóndele. ¿Cuál sería tu deseo?
-\tg[Anthony]Come on, answer him. What would be your wish?
+\tg[Anthony]Come on, answer her. What would be your wish?
 \tg[Lucius]¡A mí me gustaría poder comer Magikarp sin tener que pescarlos ni pagar por ellos!
 \tg[Lucius]I wish I could eat Magikarp without having to catch them or pay for them!
 \tg[Anthony](...)
@@ -2421,16 +2414,16 @@ No
 \tg[Lucius]No, ¡dígalo! ¡Ahora debe decirlo!
 \tg[Lucius]No, say it! Now you must say it!
 \tg[Phione]Nadie ha preguntado a Phione, así que Phione desaría que no la ignoraran.
-\tg[Phione]No one has asked Phione, so Phione wishes they wouldn't ignore her.
+\tg[Phione]No one has asked Phione, so Phione wishes she wouldn't be ignored.
 [Map68]
 \tg[Anciana]Así que eso os ha pasado. Típico de Moira, no ha cambiado nada...
 \tg[Old Lady]So that's what happened to you. Typical of Moira, nothing has changed...
 \tg[Anthony]¿Es usted conocida suya?
-\tg[Anthony]Are you someone you know?
+\tg[Anthony]Are you an acquaintance of her?
 \tg[Anciana]Por supuesto, ¡y de cada residente de la isla! Disfruta conversando con todos nosotros y saber si estamos bien.
-\tg[Old Lady]Of course, and from every resident of the island! Enjoy talking to all of us and finding out if we are okay.
+\tg[Old Lady]Of course, and from every resident of the island! She enjoys talking to all of us and finding out if we are okay.
 \tg[Anciana]Además, se preocupa de que tengamos suficiente comida y medicina para vivir en condiciones. Incluso reparte la mayor parte de las ganancias de la mina entre nosotros...
-\tg[Old Woman]In addition, he makes sure that we have enough food and medicine to live in conditions. He even distributes most of the profits from the mine between us...
+\tg[Old Woman]In addition, she makes sure that we have enough food and medicine to live in proper conditions. She even distributes most of the profits from the mine between us...
 \tg[Anciana]Y, a pesar de todo, apenas podemos permitirnos comprar suministros de los comerciantes.
 \tg[Old Woman]And yet, we can barely afford to buy supplies from the merchants.
 \tg[Anthony]¿La mina es la única fuente de ingresos que disponéis?
@@ -2454,7 +2447,7 @@ No
 \tg[Anciana]Oh, y lamento no poder ofreceros nada para cenar. Como podéis ver, gasté el dinero de mi última asignación en flores.
 \tg[Old Lady]Oh, and I'm sorry I can't offer you anything for dinner. As you can see, I spent my last allowance money on flowers.
 \tg[Anciana]Ni siquiera yo he podido comer hoy.
-\tg[Old Lady]Not even I have been able to eat today.
+\tg[Old Lady]I even haven't been able to eat today.
 \tg[Anthony]Lamento la pérdida. ¿Hace mucho que ocurrió?
 \tg[Anthony]I'm sorry for the loss. Has it happened long ago?
 \tg[Lucius]¿Pérdida? ¿A qué se refiere?
@@ -2470,19 +2463,19 @@ No
 \tg[Anthony](...)
 \tg[Anthony](...)
 \tg[Anthony]Si aún no ha cenado, tengo un poco de comida que guardé para el viaje de regreso mañana. Es lo mínimo que podemos hacer para agradecer su hospitalidad.
-\tg[Anthony]If you haven't had dinner yet, I have some food that I saved for the trip back tomorrow. It's the least we can do to thank you for your hospitality.
+\tg[Anthony]If you haven't had dinner yet, I have some food that I kept for the trip back tomorrow. It's the least we can do to thank you for your hospitality.
 \tg[Anciana]No se preocupe, he pasado por situaciones peores.
 \tg[Old Lady]Don't worry, I've been through worse situations.
 \tg[Anciana]Todo sea por mantener vivo el recuerdo de mi pobre hijita...
-\tg[Old Lady] Everything is to keep the memory of my poor little daughter alive...
+\tg[Old Lady]Everything to keep the memory of my poor little daughter alive...
 \tg[Lucius]Entonces... ¿Ha comprado estas vistosas flores para acompañar la foto?
 \tg[Lucius]So... Have you bought these showy flowers to accompany the photo?
 \tg[Lucius]Menudo desperdicio. Hace peligrar su propia vida malgastando sus recursos en adornos meramente decorativos.
-\tg[Lucius]What a waste. He endangers his own life by wasting his resources on merely decorative ornaments.
+\tg[Lucius]What a waste. You endanger your own life by wasting your resources on merely decorative ornaments.
 \tg[Lucius]Además, si tanto sufre por la pérdida de su hija, ¿cuál es la razón para recordarla a diario al ver su imagen?
 \tg[Lucius]Also, if you suffer so much from the loss of your daughter, what is the reason for remembering her every day when you see her image?
 \tg[Lucius]¡Creo que sería mucho más feliz\| \c[2]si se deshiciese de ella!</c>
-\tg[Lucius]I think he would be much happier\| \c[2]if you got rid of her!</c>
+\tg[Lucius]I think you would be much happier\| \c[2]if you got rid of it!</c>
 \tg[Anciana](...)
 \tg[Old Lady](...)
 \tg[Lucius]Mr. Anthony, ¿qué...?
@@ -2498,7 +2491,7 @@ No
 \tg[Lucius]Yo\| pasaré la noche fuera.
 \tg[Lucius]I\| will spend the night outside.
 \tg[Phione]¡Espere! ¡No debería...!
-\tg[Phione]Wait! I shouldn't...!
+\tg[Phione]Wait! You shouldn't...!
 \tg[Lucius]¡NO ME SIGAS!
 \tg[Lucius]DON'T FOLLOW ME!
 \tg[Phione]Gah...
@@ -2516,9 +2509,9 @@ No
 \tg[Anthony]Pues, sí... Pero esa no es excusa para lo que acabamos de...
 \tg[Anthony]Well, yes... But that's no excuse for what we just did...
 \tg[Anciana]Je, je, je. Me hace recordar a cómo solía ser Moira hace un tiempo. Siempre se confundía con el comportamiento humano.
-\tg[Old Lady]Heh heh heh. Reminds me of how Moira used to be a while ago. She was always confused by human behavior.
+\tg[Old Lady]Heh, heh, heh. Reminds me of how Moira used to be a while ago. She was always confused by human behavior.
 \tg[Anciana]Y usted... Puedo ver claramente en su mirada por qué ha actuado así. No tiene que excusarse.
-\tg[Old Lady]And you... I can clearly see in your eyes why you acted like this. You don't have to apologize.
+\tg[Old Lady]And you... I can clearly see in your eyes why you acted like that. You don't have to apologize.
 \tg[Anciana]Deberíais tratar de descansar. La condición para que os quedéis a dormir es que hagáis las paces mañana, ¿de acuerdo?
 \tg[Old Lady]You should try to rest. The condition for you to stay the night is that you make peace tomorrow, okay?
 \tg[Anthony]De acuerdo. Una vez más, gracias y disculpe.
@@ -2534,7 +2527,7 @@ But, at midnight...
 \tg[Anthony](Espero que no haya ido muy lejos.)
 \tg[Anthony](I hope I didn't go too far.)
 \tg[Rockruff](¡Llenar al albino tonto de babas! ¡Y morder a la babosa azul!)
-\tg[Rockruff](Fill the albino fool with slime! And bite the blue slug!)
+\tg[Rockruff](Fill the albino fool with slobber! And bite the blue slug!)
 \tg[Phione](...)
 \tg[Phione](...)
 \tg[Anciana]Si veis a Flint, decidle que se dé un descanso, por favor. Este chico...
@@ -2549,33 +2542,33 @@ But, at midnight...
 \tg[Ciudadano]¡Un momento!
 \tg[Citizen]Wait a minute!
 \tg[Ciudadano]No pueden ir al Bosque Foliodoro sin un Permiso del boticario. ¿Lo tienen?
-\tg[Citizen]You cannot go to Foliodoro Forest without an Apothecary's Permit. Do you have it?
+\tg[Citizen]You cannot go to Foliodoro Forest without a Pharmacist Permit. Do you have it?
 \tg[Anthony]¿Se refiere a Minos? Justo acabamos de hablar con él. No nos ha dicho nada de ningún Permiso.
-\tg[Anthony]Do you mean Minos? We just spoke to him. He hasn't told us anything about any Permits.
+\tg[Anthony]Do you mean Minos? We just spoke to him. He didn't tell us anything about any Permit.
 \tg[Ciudadano]¿Sí? Qué raro.
 \tg[Citizen]Yes? How strange.
 \tg[Ciudadano]Sea como sea, me han ordenado que no deje pasar a nadie sin un Permiso. La "enfermedad de las burbujas" se está esparciendo y Minos quiere controlar quién entra y sale de la ciudad.
-\tg[Citizen]Be that as it may, I have been ordered not to let anyone pass without a Permit. The "bubble disease" is spreading and Minos wants to control who enters and leaves the city.
+\tg[Citizen]Whatever the case may be, I have been ordered not to let anyone pass without a Permit. The "bubble disease" is spreading and Minos wants to control who enters and leaves the city.
 \tg[Ciudadano]Así que vayan a la botica y pídanle uno.
 \tg[Citizen]So go to the pharmacy and ask for one.
 \tg[Anthony](¿Y por qué no nos lo dijo antes...?)
-\tg[Anthony](And why didn't you tell us before...?)
+\tg[Anthony](And why didn't he tell us before...?)
 \tg[Anthony](Hay que llevarle ese polen a Minos...)
 \tg[Anthony](We have to take that pollen to Minos...)
 \tg[Anthony](Será mejor no entretenerse. Lucius necesita ayuda.)
-\tg[Anthony](It's best not to dawdle. Lucius needs help.)
+\tg[Anthony](It's best not to get distracted. Lucius needs help.)
 \tg[Phione]¡Cuidado! ¡Te vas a caer!
 \tg[Phione]Careful! You're going to fall!
 \tg[Ciudadana]¡Anda, qué maja! ¡Su Pokémon habla!
-\tg[Citizen]Come on, that's nice! Her Pokémon talks!
+\tg[Citizen]Wow, how nice! Your Pokémon talks!
 \tg[Anthony](Pensaba que se asustaría...)
-\tg[Anthony](I thought he would be scared...)
+\tg[Anthony](I thought she would be scared...)
 \tg[Ciudadana]Tranquila, tengo mucho cuidado. Estoy tratando de avistar un Luvdisc... ¡Dicen que, si ves uno, encontrarás el amor verdadero!
-\tg[Citizen]Don't worry, I'm very careful. I'm trying to spot a Luvdisc... They say if you see one, you'll find true love!
+\tg[Citizen]Don't worry, I'm very careful. I'm trying to spot a Luvdisc... They say that if you see one, you'll find true love!
 \tg[Lucius]No sabría decirle sobre el amor verdadero, pero lo cierto es que son muy deliciosos.
 \tg[Lucius]I couldn't tell you about true love, but the truth is that they are very delicious.
 \tg[Lucius]Si lo desea, en cuanto recupere mi Forma Pokémon capturaré uno y se lo enseñaré antes de comérmelo.
-\tg[Lucius]If you wish, as soon as I regain my Pokémon Form I will capture one and show it to you before eating it.
+\tg[Lucius]If you wish, as soon as I recover my Pokémon Form I will capture one and show it to you before eating it.
 \tg[Phione]Eso le quita todo el romanticismo, fí.
 \tg[Phione]That takes away all the romanticism, fi.
 \tg[Ciudadano]¿Adónde vais? ¿Al Bosque?
@@ -2583,13 +2576,13 @@ But, at midnight...
 \tg[Ciudadano]Tened cuidado con esas extrañas burbujas. Minos dice que podrían transmitir enfermedades...
 \tg[Citizen]Be careful with those strange bubbles. Minos says they could transmit diseases...
 \tg[Phione](Qué sabrá él.)
-\tg[Phione](What does he know.)
+\tg[Phione](What would he know.)
 \tg[Lucius]Oiga, señorito. ¿Ha oído hablar de la Segunda?
 \tg[Lucius]Hey, young man. Have you heard of the Second?
 \tg[Niño]¡Chí! A veces trata de acercarse a la ciudad, pero los mayores la echan.
-\tg[Child]Hí! Sometimes she tries to get close to the city, but the adults throw her out.
+\tg[Child]Ye! Sometimes she tries to get close to the city, but the adults throw her out.
 \tg[Anthony]¿Por qué? ¿Es que hace algo malo?
-\tg[Anthony]Why? Is he doing something wrong?
+\tg[Anthony]Why? Does she do something wrong?
 \tg[Niño]Dicen que es un peligro y que, si pudieran, la expulsarían de la isla. También insisten en que es la razón de todo lo malo que pase...
 \tg[Child]They say she is a danger and that, if they could, they would expel her from the island. They also insist that she is the reason for everything bad that happens...
 \tg[Lucius]¿Y usted qué opina?
@@ -2597,29 +2590,29 @@ But, at midnight...
 \tg[Niño]¡Yo opino que no deberían echarla porque es muy guapa y de mayor me gustaría casarme con ella, je, je!
 \tg[Child] I think they shouldn't kick her out because she is very pretty and when I grow up I would like to marry her, heh heh!
 \tg[Anthony](Vaya con el crío.)
-\tg[Anthony](Go with the kid.)
+\tg[Anthony](Damm with the kid.)
 \tg[Niña]¡Aaah! ¡Su Pokémon tiene un diente asomando, me asusta!
-\tg[Girl] Aaah! His Pokémon has a tooth sticking out, it scares me!
+\tg[Girl]Aaah! Your Pokémon has a tooth sticking out, it scares me!
 \tg[Phione]¿Gah?
 \tg[Phione]Gah?
 \tg[Anthony]No hace nada, Phione es muy simpática. Seguro que si tratas de acariciarla, se deja.
-\tg[Anthony]She doesn't do anything, Phione is very nice. I'm sure if you try to pet her, she'll stop.
+\tg[Anthony]She doesn't do anything, Phione is very nice. I'm sure if you try to pet her, she'll let you.
 \tg[Niña]A-a ver...
-\tg[Girl] Let's see...
+\tg[Girl]L-let's see...
 \tg[Phione]¡GAAAH! ¡NO TOQUES EL LACITO DE PHIONE!
 \tg[Phione]GAAAH! DON'T TOUCH PHIONE'S LITTLE BOW!
 \tg[Niña]¡Buaaaaa! ¡También habla! ¡Mamáaaaa!
-\tg[Girl]Woooooo! He's talking too! Mommy!
+\tg[Girl]Woooooo! She talk's too! Mommy!
 \tg[Anthony]L-lo siento.
 \tg[Anthony]I-I'm sorry.
 \tg[Ciudadano]Habéis vuelto. Bueno, al menos parece que habéis soltado a la niña esa por ahí.
 \tg[Citizen]You're back. Well, at least it seems like you've released that girl out there.
 \tg[Anthony]Piénsate bien lo que dices, amigo.
-\tg[Anthony]Think carefully about what you say, friend.
+\tg[Anthony]Think carefully about what you say, boy.
 \tg[Phione](Parece que Anthony ya vuelve a estar bien... Mmm...)
 \tg[Phione](It seems that Anthony is fine again... Mmm...)
 \tg[Ciudadano]Seguramente la tormenta de antes fuese culpa suya. Tch, ¡ya va siendo hora de que hagamos algo, o un día de estos nos va a ahogar a todos!
-\tg[Citizen]Surely the storm earlier was their fault. Tch, it's about time we did something, or one of these days it's going to drown us all!
+\tg[Citizen]Surely the storm earlier was her fault. Tch, it's about time we did something, or one of these days she's going to drown us all!
 \tg[Anthony](Si le contáramos lo que casi acaba de pasar...)
 \tg[Anthony](If we told him what almost just happened...)
 \tg[Lucius]Oh, ¿les molestó mi tormenta? Una pena, invocarlas no me es nada fácil, ¿sabe?
@@ -2631,9 +2624,9 @@ But, at midnight...
 \tg[Ciudadano]¿Qué insinúas, señorito?
 \tg[Citizen]What are you implying, young man?
 \tg[Lucius]¡Que soy el mismísimo Lugia, por supuesto! Me gustaría hacerle una demostración de mis poderes, pero tras una fiera lucha contra la Guardiana de vuestra isla, mi Rosario fue destruido y necesito recuperarme.
-\tg[Lucius]I am Lugia himself, of course! I would like to show him my powers, but after a fierce fight against the Guardian of your island, my Rosary was destroyed and I need to recover.
+\tg[Lucius]I am Lugia himself, of course! I would like to show you my powers, but after a fierce fight against the Guardian of your island, my Rosary was destroyed and I need to recover.
 \tg[Phione]A-Amo... Lo que está diciendo es...
-\tg[Phione]A-Master... What you're saying is...
+\tg[Phione]M-Master... What you're saying is...
 \tg[Ciudadano]¡Ja! Me estás tomando el pelo. La criaja es la única culpable de todo, ¡no me fío nada de ti!
 \tg[Citizen]Ha! You're kidding me. The little girl is the only one to blame for everything, I don't trust you at all!
 \tg[Ciudadano]¡Dudo que seas Lugia, para empezar! ¡Tus excusas para no transformarte son muy convenientes!
@@ -2641,7 +2634,7 @@ But, at midnight...
 \tg[Lucius]Um...
 \tg[Lucius]Um...
 \tg[Minos]¡Hola, hola! ¿Ya os íbais?
-\tg[Minos]Hello, hello! Are you leaving yet?
+\tg[Minos]Hello, hello! Were you leaving?
 \tg[Anthony]Sí, ya nos íbamos. Haznos un favor y déjanos tranquilos de una vez, Minos.
 \tg[Anthony]Yes, we were leaving. Do us a favor and leave us alone for once, Minos.
 \tg[Ciudadano]¡Minos, escucha! El albino dice que es Lugia, ¿¡te lo puedes creer!?
@@ -2653,11 +2646,22 @@ But, at midnight...
 \tg[Minos]¿Qué? ¿De dónde has...?
 \tg[Minos]What? Where did you...?
 \tg[Lucius](Demasiado inoportuno. Mi gozo en un pozo...)
-\tg[Lucius](Too inopportune. My joy in a well...)
+\tg[Lucius](Too bad. Just my luck...)
 \tg[Minos](...)
 \tg[Minos](...)
 \tg[Minos]Ah, pues ahora que lo dices...
-\tg[Minos]Ah, well now that you mention it...
+\tg[Minos]Ah, now that you mention it...
+
+
+
+
+Comprobado hasta aquí.
+
+
+
+
+
+
 \tg[Minos]¡Las tormentas empeoraron en cuanto llegó a la isla, así que tiene todo el sentido del mundo! ¡Parece que la pequeña Zaza hizo un gran trabajo!
 \tg[Minos]The storms got worse as soon as he arrived on the island, so it makes all the sense in the world! Looks like little Zaza did a great job!
 \tg[Ciudadano]¿D-de veras? Odio decir esto, pero parece que la Guardiana ha hecho algo útil esta vez...
